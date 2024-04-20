@@ -1,3 +1,12 @@
+---
+layout: post
+title: Usando Equações em Markdown
+author: Agostinho Brito
+tag:
+  - equacoes
+  - LaTeX
+mathjax: true
+---
 # Quimica
 
 ## Lista 03 - Rendimento
