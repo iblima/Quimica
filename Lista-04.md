@@ -1,5 +1,7 @@
-#Lista Exercício 04 - Química
+# Lista Exercício 04 - Química
+
 **Prof. Itamar Barbosa**
+
 **Reagente em excesso, Limitante, Rendimento e Grau de Pureza dos
 Reagentes**
 
