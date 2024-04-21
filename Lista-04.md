@@ -1,19 +1,15 @@
-::: center
-**Lista Exercício 04 - Química**\
-**Prof. Itamar Barbosa**\
+#Lista Exercício 04 - Química
+**Prof. Itamar Barbosa**
 **Reagente em excesso, Limitante, Rendimento e Grau de Pureza dos
 Reagentes**
-:::
 
-::: paracol
-2
+## Questões
 
-1.  (Fuvest-SP) Uma amostra de minério de carbonato de cálcio, pesando
-    2,0 g, ao ser tratada com ácido clorídrico em excesso, produziu 1,5
-    [ ⋅ 10^−2^]{.math .inline} mol de dióxido de carbono. Equacione a
-    reação química correspondente e calcule a porcentagem em massa de
-    carbonato de cálcio na amostra. Indique os cálculos. Dados: massa de
-    um mol de carbonato de cálcio = 100 g.
+1.  (Fuvest-SP) Uma amostra de minério de carbonato de cálcio, pesando 2,0 g, ao ser tratada com ácido clorídrico em excesso, produziu 1,5 [ ⋅ 10^−2^]{.math .inline} mol de dióxido de carbono.
+ 
+Equacione a reação química correspondente e calcule a porcentagem em massa de carbonato de cálcio na amostra. Indique os cálculos. 
+
+Dados: massa de um mol de carbonato de cálcio = 100 g.
 
 2.  (UFES) A decomposição térmica do carbonato de cálcio produz óxido de
     cálcio e dióxido de carbono. Decompondo-se 5,0 g de carbonato de
