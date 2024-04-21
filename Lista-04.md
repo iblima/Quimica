@@ -35,9 +35,9 @@ Dados: massa de um mol de carbonato de cálcio = 100 g.
 3.  (FURG-RS) A decomposição térmica do nitrato cúprico é representada
     pela seguinte equação:
 
-    [\$\$2 \\ce{Cu(NO_3)\_2\_(s)} \\ce{-\>} 2 \\ce{CuO\_(s)} + 4
-    \\ce{NO_2\_(g)} + \\ce{O_2}\$\$]{.math .display}
-
+   $$ [\$\$2 \\ce{Cu(NO_3)\_2\_(s)} \\ce{-\>} 2 \\ce{CuO\_(s)} + 4
+    \\ce{NO_2\_(g)} + \\ce{O_2}\$\$]{.math .display}$$
+$$2\ce{CU(NO3)2 \ce{->} $$
     Calcule a massa de óxido cúprico que se obtém a partir da
     decomposição de 500 g de nitrato cúprico, sabendo-se que este
     apresenta [75%]{.math .inline} de pureza em .
