@@ -1,3 +1,12 @@
+---
+author: Itamar Barbosa
+tag:
+ - equacoes
+ - Latex
+mathjax: true
+---
+
+
 # Lista Exercício 04 - Química
 
 **Prof. Itamar Barbosa**
