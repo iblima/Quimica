@@ -6,9 +6,5 @@ Este site foi criado para ser o seu aliado nos estudos, oferecendo conteúdo cla
 
 
 - [[file:Quimica-1.org][Química 1 Ano]]
-- [Quimica 1 Ano](Quimica-1.org)
-- [Quimica 1 Ano](docs/Quimica-1.org)
-- [Química 1 Ano](https://github.com/iblima/Quimica/blob/main/Quimica-1.org)
-  [[https://github.com/iblima/Quimica/blob/main/Quimica-1.org][Química 1 Ano]]
-- Quimica 2 Ano
-- Quimica 3 Ano
+- [[file:Quimica-2.org][Quimica 2 Ano]]
+- [[file:Quimica-3.org][Quimica 3 Ano]]
