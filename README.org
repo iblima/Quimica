@@ -1,5 +1,3 @@
-:makeindex
-
 * Química
 
 *Bem-vindos ao nosso espaço dedicado à Química!*
@@ -7,8 +5,8 @@
 Este site foi criado para ser o seu aliado nos estudos, oferecendo conteúdo claro, dicas práticas e recursos que facilitam o aprendizado dessa ciência fascinante. Aqui, você encontrará explicações detalhadas, exercícios resolvidos, curiosidades e muito mais, tudo pensado para ajudá-lo a dominar os conceitos da Química de forma simples e eficiente. Seja para tirar dúvidas, revisar matérias ou se aprofundar em temas específicos, este é o lugar certo para você. Vamos juntos explorar o mundo da Química e transformar o estudo em uma experiência enriquecedora e divertida!
 
 
-#+INDEX:- [[file:Quimica-1.org][Química 1 Ano]]
-#+INDEX:- [[file:Quimica-2.org][Química 2 Ano]]
+- [[file:Quimica-1.org][Química 1 Ano]]
+- [[file:Quimica-2.org][Química 2 Ano]]
 - [[file:Quimica-3.org][Química 3 Ano]]
 
 
