@@ -10,11 +10,3 @@ Este site foi criado para ser o seu aliado nos estudos, oferecendo conteúdo cla
 - [[file:Quimica-3.org][Química 3 Ano]]
 
 
-:makeindex
-#+INCLUDE: "theindex.inc"
-*** Curriculum Vitae
-#+INDEX: CV
-#+INDEX: Application!CViculum Vitae
-#+INDEX: CV
-#+INDEX: Application!CV
-
