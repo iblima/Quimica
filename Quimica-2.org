@@ -1,1 +1,28 @@
 * Química 2 Ano
+
+** Sumário
+
+- SOLUÇÕES
+- PROPRIEDADES COLIGATIVAS
+- TERMOQUÍMICA
+- CINÉTICA QUÍMICA
+- EQUILÍBRIO QUÍMICOS HOMOGÊNEOS
+- EQUILÍBRIO IÔNICOS EM SOLUÇÕES AQUOSAS
+- EQUÍLIBRIO HETEROGÊNEOS
+- ELETROQUÍMICA - OXI-REDUÇÃO E PILHAS ELÉTRICAS
+- ELETROQUÍMICA - ELETRÓLISE
+- REAÇÕES NUCLEARES
+- LEITURAS RECOMENDADAS
+- BIOGRAFIAS
+  - [[https://pt.wikipedia.org/wiki/Fran%C3%A7ois-Marie_Raoult][François-Marie Raoult]]
+  - [[https://pt.wikipedia.org/wiki/Jacobus_Henricus_van_'t_Hoff][Jacobus Henricus van't Hoff]]
+  - [[https://pt.wikipedia.org/wiki/Germain_Henry_Hess][German Henry Hess]]
+  - [[https://pt.wikipedia.org/wiki/Cato_Maximilian_Guldberg][Cato Maximilian Guldber]] e [[https://pt.wikipedia.org/wiki/Peter_Waage][Peter Waage]]
+  - [[https://en.wikipedia.org/wiki/Henry_Louis_Le_Chatelier][Henry Louis Le Chatelier]]
+  - [[https://pt.wikipedia.org/wiki/Wilhelm_Ostwald][Wilhelm Ostwald]]
+  - [[https://pt.wikipedia.org/wiki/Michael_Faraday][Michael Faraday]]
+  - [[https://pt.wikipedia.org/wiki/Robert_Andrews_Millikan][Robert Andrews Millikan]]
+  - [[https://pt.wikipedia.org/wiki/Pierre_Curie][Pierre Curie]] e [[https://pt.wikipedia.org/wiki/Marie_Curie][Marie Sklodowska Curie]]
+  - [[https://pt.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie][Jean-Frédéric Joliot Curie]] e [[https://pt.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie][Irène Joliot Curie]]
+  - [[https://pt.wikipedia.org/wiki/Glenn_Theodore_Seaborg][Glenn Theodore Seaborg]]
+  - [[https://pt.wikipedia.org/wiki/Enrico_Fermi][Enrico Fermi]]

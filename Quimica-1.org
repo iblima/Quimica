@@ -10,6 +10,22 @@
 - [[#estrutura-atômica-moderna][Estrutura Atômica Moderna]]
 - [[#classificação-periódica-dos-elementos-químicos][Classificação Periódica dos Elementos Químicos]]
 
+- PRIMEIRA VISÃO DA QUÍMICA
+- CONHECENDO A MATÉRIA E SUAS TRANSFORMAÇÕES
+- EXPLICANDO A MATÉRIA E SUAS TRANSFORMAÇÕES
+- A EVOLUÇÃO DOS MODELOS ATÔMICOS
+- A CLASSIFICAÇÃO PERIÓDICA DOS ELEMENTOS
+- AS LIGAÇÕES QUÍMICAS
+- A GEOMETRIA MOLECULAR
+- ÁCIDOS, BASES E SAIS INORGÂNICOS
+- ÓXIDOS INORGÂNICOS
+- AS REAÇÕES QUÍMICAS
+- MASSA ATÔMICA E MASSA MOLECULAR
+- ESTUDO DOS GASES
+- CÁLCULO DE FÓRMULAS
+- CALCULO ESTEQUIOMÉTRICO
+- LEITURAS RECOMENDADAS
+
 ** Fenômenos, Misturas e Substâncias
 ** Leis Ponderais e Volumetricas
 ** Átomos: modelos, estrutura e relações
