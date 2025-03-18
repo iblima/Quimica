@@ -6,7 +6,7 @@
 
 - [[#fenômenos-misturas-e-substâncias][Fenômenos, Misturas e Substâncias]]
 - [[#leis-ponderais-e-volumetricas][Leis Ponderais e Volumetricas]]
-- [[#átomos-modelos-estrutura-relações][Átomos: modelos, estrutura e relações]]
+- [[#átomos-modelos-estrutura-e-relações][Átomos: modelos, estrutura e relações]]
 - [[#estrutura-atômica-moderna][Estrutura Atômica Moderna]]
 - [[#classificação-periódica-dos-elementos-químicos][Classificação Periódica dos Elementos Químicos]]
 
