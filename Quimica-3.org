@@ -1,57 +1,9 @@
-* Química Orgânica
+* Química 3 Ano
 
-A Química Orgânica é a parte da química que estuda os compostos orgânicos, compostos carbônicos, que são aqueles formados por átomos de carbono.
+** Sumário
 
-** Histórico da Química Orgânica
-
-O estudo da Química Orgânica tem início na metade do século XVIII, quando acreditava-se que os compostos orgânicos eram somente sintetizados pelos organismos vivos. Ao mesmo tempo, os compostos inorgânicos eram aqueles originários de organismos não-vivos, os quais pertenciam ao Reino Mineral.
-
-A Teoria da Força Vital postulava que as substâncias orgânicas não poderiam ser sintetizadas em laboratório, pois apenas os organismos vivos possuíam a energia necessária para isso.
-
-Porém, em 1828, o químico alemão [[https://pt.wikipedia.org/wiki/Friedrich_W%C3%B6hler][Friedrich Wöhler]] (1800-1882) sintetizou a ureia em laboratório a partir de um composto inorgânico, o cianato de amônio. Com isso, ele demonstrou que nem sempre os compostos orgânicos são originários de organismos vivos.
-
-A partir daí, a Química Orgânica passou a se referir apenas ao estudo dos compostos de carbono.
-
-** Características do Carbono
-
-O carbono é o elemento químico principal que forma todos os compostos orgânicos. Ele é um ametal e conforme a tabela periódica, possui as seguintes características:
-
-- Massa atômica (A) igual a 12;
-- Número atômico (Z) igual a 6;
-- Configuração eletrônica: K = 2 e L = 4;
-- Distribuição eletrônica em estado fundamental: 1s2 2s2 2p2;
-- Apresenta quatro elétrons na camada de valência;
-- Pode formar quatro ligações covalentes;
-- Pode formar cadeias curtas ou longas e com várias disposições;
-- Alta capacidade de se ligar a outros átomos.
-
-O carbono é classificado de acordo com a posição que ocupa na cadeia carbônica. Ele pode ser primário (ligado a um carbono), secundário (ligado a dois carbonos), terciário (ligado a três carbonos) ou quaternário (ligado a quatro carbonos).
-
-** Cadeias carbônicas
-
-A cadeia carbônica representa o conjunto de todos os carbonos e demais elementos presentes em um composto orgânico.
-
-As cadeias carbônicas podem ser abertas, fechadas ou mistas:
-
-- Cadeias carbônicas abertas, acíclicas ou alifáticas: são aquelas que possuem duas ou mais extremidades livres.
-- Cadeias carbônicas fechadas, cíclicas ou alicíclicas: são aquelas em que não há extremidades livres, ou seja, forma-se um ciclo.
-- Cadeias carbônicas mistas: são aquelas que possuem uma porção com extremidade livre e outra porção fechada.
-
-As cadeias carbônicas podem ainda ser homogêneas, heterogêneas, saturadas e insaturadas:
-
-- Cadeias carbônicas homogêneas: as que possuem apresentam átomos de carbono e hidrogênio.
-- Cadeias carbônicas heterogêneas: as que apresentam heteroátomo.
-- Cadeias carbônicas saturadas: apresentam apenas ligações simples entre os átomos de carbono.
-- Cadeias carbônicas insaturadas: apresentam alguma ligação dupla ou tripla entre os átomos de carbono.
+- [[File:Quimica-Organica/Quimica-Organica.org][Química Orgânica]]
+- [[File:Radioatividade/Radioatividade.org][Radioatividade]]
   
-
-** Funções Orgânicas
-
-A função química representa um grupo de compostos com propriedades químicas semelhantes. Eles são identificados por meio dos chamados grupos funcionais.
-
-De acordo com os grupos funcionais, as funções orgânicas são as seguintes:
-
-- Funções Hidrogenadas: Composto formado por carbono e hidrogênio, os chamados por hidrocarbonetos (Alcanos, Alcenos, Alcinos, Alcadienos, Cicloalcanos, Cicloalcenos).
-- Funções Nitrogenadas: Composto formado de nitrogênio na cadeia carbônica, são eles: Aminas, Amidas, Nitrilas e Nitrocompostos.
-- Funções Oxigenadas: Composto formado de oxigênio na cadeia carbônica, são eles: Aldeídos, Cetonas, Ácidos carboxílicos, Ésteres, Éteres, Fenóis, Álcoois.
-- Funções Halogenadas: Composto formado por haletos, são eles o Flúor (F), Cloro (Cl), Bromo (Br), Iodo (I) e Astato (At).
+** Química Orgânica
+** Radioatividade
