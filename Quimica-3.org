@@ -3,7 +3,7 @@
 ** Sumário
 
 - [[./Quimica-Organica/Quimica-Organica.org][Química Orgânica]]
-- [[File:Radioatividade/Radioatividade.org][Radioatividade]]
+- [[./Radioatividade/Radioatividade.org][Radioatividade]]
   
 ** Química Orgânica
 ** Radioatividade
