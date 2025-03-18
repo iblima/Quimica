@@ -4,11 +4,11 @@
 
 ** Sumário
 
-- [[#fenômenos-misturas-substâncias][Fenômenos, Misturas e Substâncias]]
+- [[#fenômenos-misturas-e-substâncias][Fenômenos, Misturas e Substâncias]]
 - [[#leis-ponderais-e-volumetricas][Leis Ponderais e Volumetricas]]
-- [[#atomos-modelos-estrutura-relacoes][Átomos: modelos, estrutura e relações]]
-- [[#estrutura-atomica-moderna][Estrutura Atômica Moderna]]
-- [[#classificação-periódica-dos-elementos-quimicos][Classificação Periódica dos Elementos Químicos]]
+- [[#átomos-modelos-estrutura-relações][Átomos: modelos, estrutura e relações]]
+- [[#estrutura-atômica-moderna][Estrutura Atômica Moderna]]
+- [[#classificação-periódica-dos-elementos-químicos][Classificação Periódica dos Elementos Químicos]]
 
 ** Fenômenos, Misturas e Substâncias
 ** Leis Ponderais e Volumetricas
