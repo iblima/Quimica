@@ -27,31 +27,56 @@ O carbono é o elemento químico principal que forma todos os compostos orgânic
 
 O carbono é classificado de acordo com a posição que ocupa na cadeia carbônica. Ele pode ser primário (ligado a um carbono), secundário (ligado a dois carbonos), terciário (ligado a três carbonos) ou quaternário (ligado a quatro carbonos).
 
-** Cadeias carbônicas
+** Cadeias Carbônicas
 
-A cadeia carbônica representa o conjunto de todos os carbonos e demais elementos presentes em um composto orgânico.
+A cadeia carbônica representa o conjunto de todos os carbonos e demais elementos presentes em um composto orgânico. Elas recebem esse nome porque se formam a partir da ligação dos átomos de carbono.
+
+Há diversos tipos de cadeia e sua classificação é feita conforme a posição dos átomos de carbono, a ligação entre si, a ligação entre os átomos de hidrogênio ou outros compostos.
 
 As cadeias carbônicas podem ser abertas, fechadas ou mistas:
 
-- Cadeias carbônicas abertas, acíclicas ou alifáticas: são aquelas que possuem duas ou mais extremidades livres.
-- Cadeias carbônicas fechadas, cíclicas ou alicíclicas: são aquelas em que não há extremidades livres, ou seja, forma-se um ciclo.
-- Cadeias carbônicas mistas: são aquelas que possuem uma porção com extremidade livre e outra porção fechada.
+- *Cadeias carbônicas abertas, acíclicas ou alifáticas*: são aquelas que possuem duas ou mais extremidades livres.
+- *Cadeias carbônicas fechadas, cíclicas ou alicíclicas*: são aquelas em que não há extremidades livres, ou seja, forma-se um ciclo.
+- *Cadeias carbônicas mistas*: são aquelas que possuem uma porção com extremidade aberta e outra porção fechada.
 
 As cadeias carbônicas podem ainda ser homogêneas, heterogêneas, saturadas e insaturadas:
 
-- Cadeias carbônicas homogêneas: as que possuem apresentam átomos de carbono e hidrogênio.
-- Cadeias carbônicas heterogêneas: as que apresentam heteroátomo.
-- Cadeias carbônicas saturadas: apresentam apenas ligações simples entre os átomos de carbono.
-- Cadeias carbônicas insaturadas: apresentam alguma ligação dupla ou tripla entre os átomos de carbono.
-  
+- *Cadeias carbônicas homogêneas*: as que possuem apresentam átomos de carbono e hidrogênio.
+- *Cadeias carbônicas heterogêneas*: as que apresentam heteroátomo.
+- *Cadeias carbônicas saturadas*: apresentam apenas ligações simples entre os átomos de carbono.
+- *Cadeias carbônicas insaturadas*: apresentam alguma ligação dupla ou tripla entre os átomos de carbono.
 
+*** Classificação
+
+Os critérios para classificar as cadeias carbônicas são:
+
+- Fechamento ou não da cadeia;
+- Tipos de átomos, com a presença ou não de heteroátomos (átomos que não são de carbono ou hidrogênio);
+- Organização dos átomos da cadeia;
+- Ligações estabelecidas entre os átomos.
+
+Elas podem ser abertas, fechadas ou mistas:
+
+*1. Cadeias abertas*
+   
+Também são chamadas de acíclicas e alifáticas. Nesse tipo de cadeia, os átomos de carbono se ligam e deixam as extremidades livres.
+
+**** Cadeias abertas normais, retas ou lineares:
+
+Nas cadeias abertas lineares não são formadas ramificações.
+
+{\tiny
+	\chemfig{C(-[4]H)(-[6]H)(-[2]OH)-C(-[6]H)(-[2]OH)-C(-[6]H)(-[0]H)(-[2]OH)}
+%{Glicerol}
+}
+  
 ** Funções Orgânicas
 
 A função química representa um grupo de compostos com propriedades químicas semelhantes. Eles são identificados por meio dos chamados grupos funcionais.
 
 De acordo com os grupos funcionais, as funções orgânicas são as seguintes:
 
-- Funções Hidrogenadas: Composto formado por carbono e hidrogênio, os chamados por hidrocarbonetos (Alcanos, Alcenos, Alcinos, Alcadienos, Cicloalcanos, Cicloalcenos).
-- Funções Nitrogenadas: Composto formado de nitrogênio na cadeia carbônica, são eles: Aminas, Amidas, Nitrilas e Nitrocompostos.
-- Funções Oxigenadas: Composto formado de oxigênio na cadeia carbônica, são eles: Aldeídos, Cetonas, Ácidos carboxílicos, Ésteres, Éteres, Fenóis, Álcoois.
-- Funções Halogenadas: Composto formado por haletos, são eles o Flúor (F), Cloro (Cl), Bromo (Br), Iodo (I) e Astato (At).
+- *Funções Hidrogenadas*: Composto formado por carbono e hidrogênio, os chamados por *Hidrocarbonetos* (Alcanos, Alcenos, Alcinos, Alcadienos, Cicloalcanos, Cicloalcenos, Clicoalcinos).
+- *Funções Nitrogenadas*: Composto formado de nitrogênio na cadeia carbônica, são eles: Aminas, Amidas, Nitrilas e Nitrocompostos.
+- *Funções Oxigenadas*: Composto formado de oxigênio na cadeia carbônica, são eles: Aldeídos, Cetonas, Ácidos carboxílicos, Ésteres, Éteres, Fenóis, Álcoois.
+- *Funções Halogenadas*: Composto formado por haletos, são eles o Flúor (F), Cloro (Cl), Bromo (Br), Iodo (I) e Astato (At).
