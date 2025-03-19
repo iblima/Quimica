@@ -65,10 +65,12 @@ Também são chamadas de acíclicas e alifáticas. Nesse tipo de cadeia, os áto
 
 Nas cadeias abertas lineares não são formadas ramificações.
 
-\begin{\tiny
+\begin{equation}
+{\tiny
 	\chemfig{C(-[4]H)(-[6]H)(-[2]OH)-C(-[6]H)(-[2]OH)-C(-[6]H)(-[0]H)(-[2]OH)}
 %{Glicerol}
 }
+\end{equation}
 
 \begin{equation} x = \sqrt{x^2} \end{equation}
 
