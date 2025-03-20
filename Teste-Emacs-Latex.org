@@ -1,5 +1,11 @@
 #+OPTIONS: tex:nil
 #+ATTR_LaTex
+#+LATEX_HEADER: \usepackage{chemfig}
+
+
+\begin{center}
+ {\chemfig[angle increment=30]{H_3C-[1]-[-1](-[-3]CH)-[1](-[3]CH)-[-1]-[1]-[-1]-[1]CH_3}}
+\end{center}
 
 
 Org mode can be used to create LaTeX documents by embedding LaTeX code directly into Org files. When exporting to LaTeX, Org mode leaves the LaTeX code as it is, allowing for direct inclusion of LaTeX environments and math snippets. For example, you can include equations like this:
