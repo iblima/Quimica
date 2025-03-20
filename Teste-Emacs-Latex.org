@@ -1,0 +1,14 @@
+#+OPTIONS: tex:nil
+#+ATTR_LaTex
+
+
+Org mode can be used to create LaTeX documents by embedding LaTeX code directly into Org files. When exporting to LaTeX, Org mode leaves the LaTeX code as it is, allowing for direct inclusion of LaTeX environments and math snippets. For example, you can include equations like this:
+
+$ L=\frac{2}{1}ρv^2SC_L$
+​
+ 
+
+Org mode also supports configuring LaTeX processing with the variable org-export-with-latex, which by default uses MathJax for HTML export and does not process LaTeX for ASCII and LaTeX backends. You can customize this behavior on a per-file basis using lines like #+OPTIONS: tex:nil to disable LaTeX processing entirely.￼2
+￼4
+
+Additionally, Org mode allows you to control the formatting of LaTeX elements through attributes. For instance, you can set options for LaTeX environments using #+ATTR_LaTeX to control aspects like spacing and margins.
