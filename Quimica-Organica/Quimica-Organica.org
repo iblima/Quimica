@@ -1,4 +1,5 @@
-#+latex_header:
+#+Latex_HEADER: \usepackage{chemfig}
+#+LateX_HEADER: \usepackage{chemformula}
 
 * Química Orgânica
 
