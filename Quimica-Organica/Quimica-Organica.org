@@ -1,3 +1,5 @@
+#+latex_header:
+
 * Química Orgânica
 
 A Química Orgânica é a parte da química que estuda os compostos orgânicos, compostos carbônicos, que são aqueles formados por átomos de carbono.
@@ -84,3 +86,12 @@ De acordo com os grupos funcionais, as funções orgânicas são as seguintes:
 - *Funções Nitrogenadas*: Composto formado de nitrogênio na cadeia carbônica, são eles: Aminas, Amidas, Nitrilas e Nitrocompostos.
 - *Funções Oxigenadas*: Composto formado de oxigênio na cadeia carbônica, são eles: Aldeídos, Cetonas, Ácidos carboxílicos, Ésteres, Éteres, Fenóis, Álcoois.
 - *Funções Halogenadas*: Composto formado por haletos, são eles o Flúor (F), Cloro (Cl), Bromo (Br), Iodo (I) e Astato (At).
+
+$\frac{2}{3}$
+$\frac{2}{3}$
+
+\[ \chemfig{A*5(-B=C-D-E=)} \]
+
+\[ \chemfig{A*5(-B=C-D-E=)} \]
+
+$ \chemfig{A*5(-B=C-D-E=)} $
