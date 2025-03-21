@@ -2,14 +2,14 @@
 
 - [[#regra-geral-de-nomenclatura-dos-hidrocarbonetos][Regra geral de nomenclatura dos hidrocarbonetos]]
   - [[#1.-definir-se-a-cadeia-principal][Definir-se a Cadeia Principal]]
-  - [[#contagem-de-carbonos][Contagem de Carbonos]]
+  - [[#2-contagem-de-carbonos][Contagem de Carbonos]]
 - [[#nomenclatura-dos-alcanos][Nomenclatura dos Alcanos]]
 - [[#nomenclatura-dos-alcenos][Nomenclatura dos Alcenos]]
 - [[#nomenclatura-dos-alcinos][Nomenclatura dos Alcinos]]
 - [[#nomenclatura-dos-alcadienos][Nomenclatura dos Alcadienos]]
 - [[#nomenclatura-dos-cicloalcanos-ciclanos][Nomenclatura dos Cicloalcanos (Ciclanos)]]
-- [[#nomenclatura-dos-cicloalcenos-(ciclenos)][Nomenclatura dos Cicloalcenos (Ciclenos)]]
-- [[#nomenclatura-dos-cicloalcinos-(ciclinos)][Nomenclatura dos Cicloalcinos (Ciclinos)]]
+- [[#nomenclatura-dos-cicloalcenos-ciclenos][Nomenclatura dos Cicloalcenos (Ciclenos)]]
+- [[#nomenclatura-dos-cicloalcinos-ciclinos][Nomenclatura dos Cicloalcinos (Ciclinos)]]
 
 ** Nomenclatura dos Hidrocarbonetos
 
