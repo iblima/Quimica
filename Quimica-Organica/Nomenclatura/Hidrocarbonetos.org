@@ -1,7 +1,7 @@
 * Química Orgânica
 
 - [[#regra-geral-de-nomenclatura-dos-hidrocarbonetos][Regra geral de nomenclatura dos hidrocarbonetos]]
-  - [[#definir-se-a-cadeia-principal][Definir-se a Cadeia Principal]]
+  - [[#1.-definir-se-a-cadeia-principal][Definir-se a Cadeia Principal]]
   - [[#contagem-de-carbonos][Contagem de Carbonos]]
     
 
