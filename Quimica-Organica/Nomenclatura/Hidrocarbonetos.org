@@ -2,3 +2,57 @@
 
 ** Nomenclatura dos Hidrocarbonetos
 
+A *nomenclatura para moléculas de hidrocarbonetos* é estabelecida, pela União de Química Pura e Aplicada (*IUPAC*), com regras específicas, que definem bem a estrutura de cada composto. Os hidrocarbonetos recebem um prefixo de acordo com o número de carbonos, e as ramificações e insaturações também são nomeadas e localizadas.
+
+Os hidrocarbonetos de cadeia aberta compõem as funções alcanos, alcenos, alcadienos e alcinos, que se diferenciam pelo número de insaturações. As funções cíclicas — cicloalcano, cicloalceno, cicloalcadieno — seguem a mesma lógica, sendo que, nesse caso, os hidrocarbonetos terão cadeia fechada.
+
+** Regra geral de nomenclatura dos hidrocarbonetos
+
+*** 1. Definir-se a cadeia principal
+
+Caso a molécula tenha mais de uma extremidade, isso quer dizer que se trata de uma cadeia ramificada, portanto, a cadeia principal será aquela com o maior número de carbonos lineares contendo todas as insaturações da cadeia (quando for uma molécula insaturada), o restante será ramificação.
+
+$ H3C-CH2-CH2-CH(CH3)-CH(CH3)-CH2-CH3 $ \\ 4,5-Metil-Heptano
+
+Perceba que teremos nessa molécula duas ramificações, e a cadeia principal (circulada de vermelho) terá 7 carbonos.
+
+
+*** 2. Contagem de Carbonos
+   
+A contagem de carbonos da cadeia principal é usada para localizar-se as ramificações e insaturações. A regra estabelece que se deve iniciar a contagem pelo lado mais próximo da instauração e ramificação, a soma dos numerais de localização que aparecem na nomenclatura deve ser a menor possível, essa mesma contagem é usada para definir-se o prefixo da nomenclatura:
+
+- 1 carbono: met-
+
+- 2 carbonos: et-
+
+- 3 carbonos: prop-
+
+- 4 carbonos: but-
+
+- 5 carbonos: hept-
+
+- 6 carbonos: hex-
+
+- 7 carbonos: hept-
+
+- 8 carbonos: oct-
+
+- 9 carbonos: non-
+
+- 10 carbonos: dec-
+
+*** Noclemclatura dos Alcanos
+
+A função a que pertence a molécula está diretamente ligada à terminação da nomenclatura. Alcanos são as moléculas de cadeia aberta que não possuem insaturações, e a nomenclatura para compostos dessa função será dada por:
+
+regra geral + terminação -ano
+
+Exemplos:
+
+- CH4: metano [O metano, formado por um carbono e pertencente à função alcano, é um gás de efeito estufa produzido pela digestão e decomposição de matéria orgânica.]
+  
+- CH3-CH3: etano (et- - referente ao número de carbonos na cadeia; -ano - referente à saturação da cadeia)
+
+- CH3-CH2-CH3: propano
+
+- CH3-CH2-CH2-CH3: butano
