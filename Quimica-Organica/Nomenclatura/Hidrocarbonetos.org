@@ -1,5 +1,10 @@
 * Química Orgânica
 
+- [[#regra-geral-de-nomenclatura-dos-hidrocarbonetos][Regra geral de nomenclatura dos hidrocarbonetos]]
+  - [[#definir-se-a-cadeia-principal][Definir-se a Cadeia Principal]]
+  - [[#contagem-de-carbonos][Contagem de Carbonos]]
+    
+
 ** Nomenclatura dos Hidrocarbonetos
 
 A *nomenclatura para moléculas de hidrocarbonetos* é estabelecida, pela União de Química Pura e Aplicada (*IUPAC*), com regras específicas, que definem bem a estrutura de cada composto. Os hidrocarbonetos recebem um prefixo de acordo com o número de carbonos, e as ramificações e insaturações também são nomeadas e localizadas.
@@ -8,7 +13,7 @@ Os hidrocarbonetos de cadeia aberta compõem as funções alcanos, alcenos, alca
 
 ** Regra geral de nomenclatura dos hidrocarbonetos
 
-*** 1. Definir-se a cadeia principal
+*** 1. Definir-se a Cadeia Principal
 
 Caso a molécula tenha mais de uma extremidade, isso quer dizer que se trata de uma cadeia ramificada, portanto, a cadeia principal será aquela com o maior número de carbonos lineares contendo todas as insaturações da cadeia (quando for uma molécula insaturada), o restante será ramificação.
 
@@ -49,10 +54,22 @@ regra geral + terminação -ano
 
 Exemplos:
 
-- CH4: metano [O metano, formado por um carbono e pertencente à função alcano, é um gás de efeito estufa produzido pela digestão e decomposição de matéria orgânica.]
+- CH4: metano [O [[https://pt.wikipedia.org/wiki/Metano][metano]], formado por um carbono e pertencente à função alcano, é um gás de efeito estufa produzido pela digestão e decomposição de matéria orgânica.]
   
 - CH3-CH3: etano (et- - referente ao número de carbonos na cadeia; -ano - referente à saturação da cadeia)
 
 - CH3-CH2-CH3: propano
 
 - CH3-CH2-CH2-CH3: butano
+
+*** Nomenclatura dos Alcenos
+
+*** Nomenclatura dos Alcinos
+
+*** Nomenclatura dos Alcadienos
+
+*** Nomenclatura dos Cicloalcanos (Ciclanos)
+
+*** Nomenclatura dos Cicloalcenos (Ciclenos)
+
+*** Nomenclatura dos Cicloalcinos (Ciclinos)
