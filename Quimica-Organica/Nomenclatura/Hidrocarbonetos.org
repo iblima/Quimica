@@ -7,9 +7,9 @@
 - [[#nomenclatura-dos-alcenos][Nomenclatura dos Alcenos]]
 - [[#nomenclatura-dos-alcinos][Nomenclatura dos Alcinos]]
 - [[#nomenclatura-dos-alcadienos][Nomenclatura dos Alcadienos]]
-- [[#nomenclatura-dos-cicloalcanos-(ciclanos)][Nomenclatura dos Cicloalcanos (Ciclanos)]]
-- [[#nomenclatura-dos-cicloalceno-(ciclenos)][Nomenclatura dos Cicloalcenos (Ciclenos)]]
-- [[#nomenclatura-dos-cicloalcinos-de-(ciclinos)][Nomenclatura dos Cicloalcinos (Ciclinos)]]
+- [[#nomenclatura-dos-cicloalcanos-ciclanos][Nomenclatura dos Cicloalcanos (Ciclanos)]]
+- [[#nomenclatura-dos-cicloalcenos-(ciclenos)][Nomenclatura dos Cicloalcenos (Ciclenos)]]
+- [[#nomenclatura-dos-cicloalcinos-(ciclinos)][Nomenclatura dos Cicloalcinos (Ciclinos)]]
 
 ** Nomenclatura dos Hidrocarbonetos
 
