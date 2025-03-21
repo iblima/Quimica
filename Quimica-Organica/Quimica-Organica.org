@@ -1,6 +1,3 @@
-#+Latex_HEADER: \usepackage{chemfig}
-#+LateX_HEADER: \usepackage{chemformula}
-
 * Química Orgânica
 
 A Química Orgânica é a parte da química que estuda os compostos orgânicos, compostos carbônicos, que são aqueles formados por átomos de carbono.
@@ -47,7 +44,9 @@ As cadeias carbônicas podem ainda ser homogêneas, heterogêneas, saturadas e i
 - *Cadeias carbônicas homogêneas*: as que possuem apresentam átomos de carbono e hidrogênio.
 - *Cadeias carbônicas heterogêneas*: as que apresentam heteroátomo.
 - *Cadeias carbônicas saturadas*: apresentam apenas ligações simples entre os átomos de carbono.
-- *Cadeias carbônicas insaturadas*: apresentam alguma ligação dupla ou tripla entre os átomos de carbono.
+- *Cadeias carbônicas insaturadas*: apresentam
+  alguma ligação dupla ou tripla entre os átomos
+  de carbono.
 
 *** Classificação
 
@@ -60,7 +59,7 @@ Os critérios para classificar as cadeias carbônicas são:
 
 Elas podem ser abertas, fechadas ou mistas:
 
-*1. Cadeias abertas*
+** *1. Cadeias abertas*
    
 Também são chamadas de acíclicas e alifáticas. Nesse tipo de cadeia, os átomos de carbono se ligam e deixam as extremidades livres.
 
@@ -68,14 +67,96 @@ Também são chamadas de acíclicas e alifáticas. Nesse tipo de cadeia, os áto
 
 Nas cadeias abertas lineares não são formadas ramificações.
 
-\begin{equation}
-{\tiny
-	\chemfig{C(-[4]H)(-[6]H)(-[2]OH)-C(-[6]H)(-[2]OH)-C(-[6]H)(-[0]H)(-[2]OH)}
-%{Glicerol}
-}
-\end{equation}
+ETANO
 
-\begin{equation} x = \sqrt{x^2} \end{equation}
+**** Cadeias abertas ramificadas:
+
+As cadeias abertas ramificadas apresentam ramificações.
+
+2,3-Metil-Butano
+
+**** Cadeias abertas homogêneas:
+
+As cadeias homogêneas têm somente átomos de carbono.
+
+Elas não apresentam heteroátomo, ou seja, nenhum outro átomo diferente carbono, entre as ligações C-C na cadeia.
+
+$ H_3CCH(CH3)CH_2CH_3 $ \\ 2-Metil-Butano
+
+**** Cadeias abertas heterogêneas:
+
+As cadeias heterogêneas apresentam pelo menos um átomo que não seja o carbono ao longo da cadeia.
+
+$ H3C-CH2-O-CH3 $
+
+**** Cadeias abertas saturadas:
+
+Em cadeias saturadas os átomos de carbono se ligam entre si por uma ligação simples. O carbono dessa cadeia é denominado saturado.
+
+$ H3C-CH2-CH2-CH2-CH2-CH3 $￼
+
+**** Cadeias abertas insaturadas:
+
+São as cadeias que têm pelo menos dois átomos de carbono unidos por uma dupla, uma tripla, duas duplas, duas triplas ligação. Nessa ligação, o carbono é denominado insaturado.
+
+$ H2=CH2 $
+
+** *2. Cadeias fechadas*
+
+As cadeias *fechadas* ou *cíclicas* ligam-se entre si e formam um ciclo.
+
+Elas podem ser *aromáticas* ou *alicíclicas*. Se forem alicíclicas, são classificadas ainda como *homocíclicas*, *heterocíclicas saturadas* ou *insaturadas*.
+
+**** Cadeias fechadas aromáticas:
+
+As cadeias fechadas aromáticas são classificadas em:
+
+- *Mononucleares*: quando possuem apenas um [[https://pt.wikipedia.org/wiki/Anel_arom%C3%A1tico_simples][anel aromático]] (anel Benzênico), como o benzeno.
+- *Polinucleares*: quando possuem mais de um anel aromático, como o naftaleno.
+
+**** Cadeias fechadas alicíclicas:
+
+As cadeias fechadas *alicíclicas* não exibem anéis aromáticos. Estão divididas em saturadas e insaturadas.
+
+As cadeias fechadas alicíclicas insaturadas são divididas em:
+
+- *Homogêneas*: O anel dessas cadeias é formado somente por átomos de carbono.
+- *Heterogêneas*: São cadeias que apresentam um heteroátomo.
+
+**** Cadeias fechadas saturadas:
+
+Em uma cadeia saturada todos os átomos de carbono estabelecem somente ligações simples.
+
+**** Cadeias fechadas insaturadas:
+
+Na cadeia insaturada existem ligações duplas entre os átomos.
+
+
+
+
+
+
+
+
+
+
+** *3. Cadeias Mistas*
+
+Nas cadeias mistas, os carbonos se ligam entre si e, como ocorre com as fechadas, também formam um ciclo na cadeia.
+
+*** Classificação do Carbono da Cadeia
+
+O carbono também pode ser classificado conforme a sua posição na cadeia em:
+
+*Carbono primário*: são os átomos das extremidades das cadeias e que se ligam somente a outro átomo.
+
+$ H3C-CH3 $
+
+*Carbono secundário*: é o carbono que se liga a outros dois átomos de carbono na cadeia.
+
+*Carbono terciário*: quando o carbono liga-se a outros três átomos de carbono.
+
+*Carbono quaternário*: quando o carbono aparece ligado a outros quatro átomos de carbono.
 
 ** Funções Orgânicas
 
@@ -88,13 +169,12 @@ De acordo com os grupos funcionais, as funções orgânicas são as seguintes:
 - *Funções Oxigenadas*: Composto formado de oxigênio na cadeia carbônica, são eles: Aldeídos, Cetonas, Ácidos carboxílicos, Ésteres, Éteres, Fenóis, Álcoois.
 - *Funções Halogenadas*: Composto formado por haletos, são eles o Flúor (F), Cloro (Cl), Bromo (Br), Iodo (I) e Astato (At).
 
-$\frac{2}{3}$
-$\frac{2}{3}$
+** Noclemclatura dos Compostos Orgânicos
 
-\[ \chemfig{A*5(-B=C-D-E=)} \]
+- [[#nomenclatura-dos-hidrocarbonetos][Nomenclatura dos Hidrocarbonetos]]
 
-\[ \chemfig{A*5(-B=C-D-E=)} \]
+*** [[./Nomenclatura/Hidrocarbonetos.org][Nomenclatura dos Hidrocarbonetos]]
 
-$ \chemfig{A*5(-B=C-D-E=)} $
+A *nomenclatura para moléculas de hidrocarbonetos* é estabelecida, pela União de Química Pura e Aplicada (*IUPAC*), com regras específicas, que definem bem a estrutura de cada composto. Os hidrocarbonetos recebem um prefixo de acordo com o número de carbonos, e as ramificações e insaturações também são nomeadas e localizadas.
 
-\chemfig{[:-60]*6(--(-(=[5])(-[7]))--=(-)-)}
+Os hidrocarbonetos de cadeia aberta compõem as funções alcanos, alcenos, alcadienos e alcinos, que se diferenciam pelo número de insaturações. As funções cíclicas — cicloalcano, cicloalceno, cicloalcadieno — seguem a mesma lógica, sendo que, nesse caso, os hidrocarbonetos terão cadeia fechada.
