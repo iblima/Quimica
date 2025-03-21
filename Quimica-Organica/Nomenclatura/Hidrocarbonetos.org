@@ -2,7 +2,7 @@
 
 - [[#regra-geral-de-nomenclatura-dos-hidrocarbonetos][Regra geral de nomenclatura dos hidrocarbonetos]]
   - [[#1.-definir-se-a-cadeia-principal][Definir-se a Cadeia Principal]]
-  - [[#2.-contagem-de-carbonos][Contagem de Carbonos]]
+  - [[#contagem-de-carbonos][Contagem de Carbonos]]
     
 
 ** Nomenclatura dos Hidrocarbonetos
