@@ -3,7 +3,13 @@
 - [[#regra-geral-de-nomenclatura-dos-hidrocarbonetos][Regra geral de nomenclatura dos hidrocarbonetos]]
   - [[#1.-definir-se-a-cadeia-principal][Definir-se a Cadeia Principal]]
   - [[#contagem-de-carbonos][Contagem de Carbonos]]
-    
+- [[#nomenclatura-dos-alcanos][Nomenclatura dos Alcanos]]
+- [[#nomenclatura-dos-alcenos][Nomenclatura dos Alcenos]]
+- [[#nomenclatura-dos-alcinos][Nomenclatura dos Alcinos]]
+- [[#nomenclatura-dos-alcadienos][Nomenclatura dos Alcadienos]]
+- [[#nomenclatura-dos-cicloalcanos-(ciclanos)][Nomenclatura dos Cicloalcanos (Ciclanos)]]
+- [[#nomenclatura-dos-cicloalceno-(ciclenos)][Nomenclatura dos Cicloalcenos (Ciclenos)]]
+- [[#nomenclatura-dos-cicloalcinos-de-(ciclinos)][Nomenclatura dos Cicloalcinos (Ciclinos)]]
 
 ** Nomenclatura dos Hidrocarbonetos
 
@@ -46,7 +52,8 @@ A contagem de carbonos da cadeia principal é usada para localizar-se as ramific
 
 - 10 carbonos: dec-
 
-*** Noclemclatura dos Alcanos
+
+*** Nomenclatura dos Alcanos
 
 A função a que pertence a molécula está diretamente ligada à terminação da nomenclatura. Alcanos são as moléculas de cadeia aberta que não possuem insaturações, e a nomenclatura para compostos dessa função será dada por:
 
@@ -61,6 +68,7 @@ Exemplos:
 - CH3-CH2-CH3: propano
 
 - CH3-CH2-CH2-CH3: butano
+
 
 *** Nomenclatura dos Alcenos
 
