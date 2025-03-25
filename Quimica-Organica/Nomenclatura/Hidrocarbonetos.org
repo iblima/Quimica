@@ -1,7 +1,7 @@
 * Química Orgânica
 
 - [[#regra-geral-de-nomenclatura-dos-hidrocarbonetos][Regra geral de nomenclatura dos hidrocarbonetos]]
-  - [[#1.-definir-se-a-cadeia-principal][Definir-se a Cadeia Principal]]
+  - [[#1-definir-se-a-cadeia-principal][Definir-se a Cadeia Principal]]
   - [[#2-contagem-de-carbonos][Contagem de Carbonos]]
 - [[#nomenclatura-dos-alcanos][Nomenclatura dos Alcanos]]
 - [[#nomenclatura-dos-alcenos][Nomenclatura dos Alcenos]]
@@ -10,6 +10,10 @@
 - [[#nomenclatura-dos-cicloalcanos-ciclanos][Nomenclatura dos Cicloalcanos (Ciclanos)]]
 - [[#nomenclatura-dos-cicloalcenos-ciclenos][Nomenclatura dos Cicloalcenos (Ciclenos)]]
 - [[#nomenclatura-dos-cicloalcinos-ciclinos][Nomenclatura dos Cicloalcinos (Ciclinos)]]
+- [[#nomenclatura-dos-hidrocarbonetos-ramificados][Nomenclatura dos Hidrocarbonetos Ramificados]]
+  - [[#hidrocarbonetos-de-cadeia-aberta][Hidrocarbonetos de Cadeia Aberta]]
+  - [[hidrocarbonetos-de-cadeia-fechada][Hidrocarbonetos de Cadeia Fechada]]
+  - [[hidrocarbonetos-de-cadeia-mistas][Hidrocarbonetos de Cadeia Mistas]]
 
 ** Nomenclatura dos Hidrocarbonetos
 
@@ -21,11 +25,17 @@ Os hidrocarbonetos de cadeia aberta compõem as funções alcanos, alcenos, alca
 
 *** 1. Definir-se a Cadeia Principal
 
-Caso a molécula tenha mais de uma extremidade, isso quer dizer que se trata de uma cadeia ramificada, portanto, a cadeia principal será aquela com o maior número de carbonos lineares contendo todas as insaturações da cadeia (quando for uma molécula insaturada), o restante será ramificação.
+Caso a molécula tenha mais de uma extremidade, isso quer dizer que se trata de uma cadeia aberta, a cadeia principal será aquela com o maior número de carbonos lineares contendo todas as insaturações da cadeia (quando for uma molécula insaturada), o restante será ramificação.
 
-$ H3C-CH2-CH2-CH(CH3)-CH(CH3)-CH2-CH3 $ \\ 4,5-Metil-Heptano
+# ;;$ H3C-CH2-CH2-CH(CH3)-CH(CH3)-CH2-CH3 $ \\ 4,5-Metil-Heptano
 
-Perceba que teremos nessa molécula duas ramificações, e a cadeia principal (circulada de vermelho) terá 7 carbonos.
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/3-Methyl-heptane.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/3-Methyl-heptane-3D.png]]
+
+Perceba que teremos nessa molécula uma ramificação, e a cadeia principal terá 7 carbonos.
 
 
 *** 2. Contagem de Carbonos
@@ -61,14 +71,32 @@ regra geral + terminação -ano
 
 Exemplos:
 
-- CH4: metano [O [[https://pt.wikipedia.org/wiki/Metano][metano]], formado por um carbono e pertencente à função alcano, é um gás de efeito estufa produzido pela digestão e decomposição de matéria orgânica.]
+- CH4: Metano [O [[https://pt.wikipedia.org/wiki/Metano][metano]], formado por um carbono e pertencente à função alcano, é um gás de efeito estufa produzido pela digestão e decomposição de matéria orgânica.]
   
-- CH3-CH3: etano (et- - referente ao número de carbonos na cadeia; -ano - referente à saturação da cadeia)
+- CH3-CH3: Etano (et- - referente ao número de carbonos na cadeia; -ano - referente à saturação da cadeia)
 
-- CH3-CH2-CH3: propano
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Etano.png]]
 
-- CH3-CH2-CH2-CH3: butano
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Etano-3D.png]]
 
+
+- CH3-CH2-CH3 : Propano
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propane.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propane-3D.png]]
+
+- CH3-CH2-CH2-CH3 : Butano
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Butane.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Butene-3D.png]]
 
 *** Nomenclatura dos Alcenos
 
@@ -81,3 +109,13 @@ Exemplos:
 *** Nomenclatura dos Cicloalcenos (Ciclenos)
 
 *** Nomenclatura dos Cicloalcinos (Ciclinos)
+
+*** Nomenclatura dos Hidrocarbonetos Ramificados
+
+**** Hidrocarbonetos de Cadeia Aberta
+
+**** Hidrocarbonetos de Cadeia Fechada
+
+
+**** Hidrocarbonetos de Cadeia Mistas
+
