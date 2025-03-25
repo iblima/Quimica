@@ -156,14 +156,32 @@ O carbono também pode ser classificado conforme a sua posição na cadeia em:
 [[https://github.com/iblima/Quimica/blob/main/Images/Etano.png]]
 
 #+ATTR_HTML: :style display:inline-block; margin:10px
-[[https://github.com/iblima/Quimica/blob/main/Images//Etano-3D.png]]
+[[https://github.com/iblima/Quimica/blob/main/Images/Etano-3D.png]]
 
 
 *Carbono secundário*: é o carbono que se liga a outros dois átomos de carbono na cadeia.
 
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propano.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propano-3D.png]]
+
 *Carbono terciário*: quando o carbono liga-se a outros três átomos de carbono.
 
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/2-Methylpropane.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/2-Methylpropane-3D.png]]
+
 *Carbono quaternário*: quando o carbono aparece ligado a outros quatro átomos de carbono.
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/2-2-Dimethylpropane.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/2-2-Dimethylpropane-3D.png]]
 
 ** Funções Orgânicas
 
