@@ -153,9 +153,10 @@ O carbono também pode ser classificado conforme a sua posição na cadeia em:
 ;;$ H3C-CH3 $
 
 #+ATTR_HTML: :style display:inline-block; margin:10px
-[[[[file:Images/Etano.png]]]]
+[[https://github.com/iblima/Quimica/blob/main/Images/Etano.png]]
+
 #+ATTR_HTML: :style display:inline-block; margin:10px
-[[[[file:Images/Etano-3D.png]]]]
+[[file:Images/Etano-3D.png]]
 
 
 *Carbono secundário*: é o carbono que se liga a outros dois átomos de carbono na cadeia.
