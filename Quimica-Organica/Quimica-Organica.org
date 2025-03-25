@@ -150,7 +150,13 @@ O carbono também pode ser classificado conforme a sua posição na cadeia em:
 
 *Carbono primário*: são os átomos das extremidades das cadeias e que se ligam somente a outro átomo.
 
-$ H3C-CH3 $
+;;$ H3C-CH3 $
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[[[file:~/Images/Etano.png]]]]
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[[[file:~/Images/Etano-3D.png]]]]
+
 
 *Carbono secundário*: é o carbono que se liga a outros dois átomos de carbono na cadeia.
 
@@ -179,10 +185,4 @@ A *nomenclatura para moléculas de hidrocarbonetos* é estabelecida, pela União
 
 Os hidrocarbonetos de cadeia aberta compõem as funções alcanos, alcenos, alcadienos e alcinos, que se diferenciam pelo número de insaturações. As funções cíclicas — cicloalcano, cicloalceno, cicloalcadieno — seguem a mesma lógica, sendo que, nesse caso, os hidrocarbonetos terão cadeia fechada.
 
-*** TODO Lista [1/5]
-    - [ ] 1
-    - [ ] 2
-    - [ ] 3
-    - [ ] 4
-    - [X] 5
      
