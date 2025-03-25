@@ -96,7 +96,7 @@ Exemplos:
 [[https://github.com/iblima/Quimica/blob/main/Images/Butane.png]]
 
 #+ATTR_HTML: :style display:inline-block; margin:10px
-[[https://github.com/iblima/Quimica/blob/main/Images/Butene-3D.png]]
+[[https://github.com/iblima/Quimica/blob/main/Images/Butane-3D.png]]
 
 *** Nomenclatura dos Alcenos
 
