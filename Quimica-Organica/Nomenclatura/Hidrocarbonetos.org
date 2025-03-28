@@ -229,7 +229,7 @@ A cadeia principal começa à esquerda e termina à direita por ter as duas dupl
 
 **** Hidrocarbonetos de Cadeia Fechada
 
-5. Nomenclatura de ciclanos ramificados
+5. [@5] Nomenclatura de ciclanos ramificados
 
    5.1 - Independentemente do ciclano, ele sempre estará na cadeia principal. Assim, qualquer grupo localizado fora da cadeia principal é considerado uma ramificação;
    
