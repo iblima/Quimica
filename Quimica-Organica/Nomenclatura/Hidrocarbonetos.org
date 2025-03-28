@@ -276,3 +276,14 @@ A cadeia principal é o ciclo, que apresenta seis carbonos; logo, o prefixo é h
    1.1. Subitem B
    1.2. Subitem C
 2. Item D
+
+#+BEGIN_EXPORT latex
+\begin{enumerate}
+\item Item A
+  \begin{enumerate}
+  \item Subitem B
+  \item Subitem C
+  \end{enumerate}
+\item Item D
+\end{enumerate}
+#+END_EXPORT
