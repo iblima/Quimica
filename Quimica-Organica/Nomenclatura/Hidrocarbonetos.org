@@ -162,7 +162,7 @@ Para realizar a nomenclatura de um hidrocarboneto ramificado, é necessário ide
 [[https://github.com/iblima/Quimica/blob/main/Images/5-Ethyl-3-methyloctane.png]]
 
 #+ATTR_HTML: :style display:inline-block; margin:10px
-[[https://github.com/iblima/Quimica/blob/main/Images/3-Ethyl-3-methyloctane-3D.png]]
+[[https://github.com/iblima/Quimica/blob/main/Images/5-Ethyl-3-methyloctane-3D.png]]
 
 Alcano com duas ramificações.
 
