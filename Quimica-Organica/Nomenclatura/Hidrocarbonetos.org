@@ -229,7 +229,7 @@ A cadeia principal começa à esquerda e termina à direita por ter as duas dupl
 
 **** Hidrocarbonetos de Cadeia Fechada
 
-***** 5. [@5] Nomenclatura de ciclanos ramificados
+5. Nomenclatura de ciclanos ramificados
 
    5.1 - Independentemente do ciclano, ele sempre estará na cadeia principal. Assim, qualquer grupo localizado fora da cadeia principal é considerado uma ramificação;
    
@@ -254,7 +254,7 @@ A cadeia principal é o ciclo com cinco carbonos (prefixo pent). A numeração d
 # 1-Ethyl-3-methylcyclopentane
 # :: SMILES: CCC1CCC(C1)C
 
-6. [@6] Nomenclatura de ciclenos ramificados
+***** 6. [@6] Nomenclatura de ciclenos ramificados
 
    6.1 - O cicleno sempre estará na cadeia principal. Assim, qualquer grupo localizado fora da cadeia principal é considerado uma ramificação;
    
@@ -274,7 +274,14 @@ Posições e nomes das ramificações em ordem alfabética separados por hifens 
 [[https://github.com/iblima/Quimica/blob/main/Images/1-3-Dimethyl-1-cyclohexene-3D.png]]
 
 A cadeia principal é o ciclo, que apresenta seis carbonos; logo, o prefixo é hex ou ex. Dessa forma, há duas ramificações metil na cadeia. A numeração inicia-se no carbono da dupla que tem a ramificação e segue o sentido horário para proporcionar o menor número para a outra ramificação. O nome desse composto é *1,3-dimetil-cicloexeno* [[https://pubchem.ncbi.nlm.nih.gov/compound/137726#section=InChI][1,3-dimetil-cicloexeno - Pubchem]]
-   
+
+
+
+7. [@7] A
+
+
+
+
 **** Hidrocarbonetos de Cadeia Mistas
 
 7. [@7] Nomenclatura de aromáticos ramificados
