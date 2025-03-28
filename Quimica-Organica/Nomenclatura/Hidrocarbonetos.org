@@ -158,7 +158,7 @@ Para realizar a nomenclatura de um hidrocarboneto ramificado, é necessário ide
 
    Posições e nomes das ramificações separados por hifens + Prefixo do número de carbonos da cadeia principal + an + o
 
-   #+ATTR_HTML: :style display:inline-block; margin:10px
+#+ATTR_HTML: :style display:inline-block; margin:10px
 [[https://github.com/iblima/Quimica/blob/main/Images/5-Ethyl-3-methyloctane.png]]
 
 #+ATTR_HTML: :style display:inline-block; margin:10px
