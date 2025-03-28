@@ -243,6 +243,7 @@ A cadeia principal é o ciclo com cinco carbonos (prefixo pent). A numeração d
 # :: SMILES: CCC1CCC(C1)C
 
 6. Nomenclatura de ciclenos ramificados
+   
 
    6.1 - O cicleno sempre estará na cadeia principal. Assim, qualquer grupo localizado fora da cadeia principal é considerado uma ramificação;
    6.2 - A numeração da cadeia do cicleno inicia-se obrigatoriamente em um dos carbonos da ligação dupla, sendo obrigatório que o carbono número 2 seja o outro carbono da dupla. O restante da numeração da cadeia é feito para dar o menor número possível para as ramificações;
@@ -269,3 +270,9 @@ A cadeia principal é o ciclo, que apresenta seis carbonos; logo, o prefixo é h
 
 
 8. Nomenclatura de aromáticos ramificados
+
+
+1. Item A
+   1.1. Subitem B
+   1.2. Subitem C
+2. Item D
