@@ -192,14 +192,13 @@ Obs.: O termo Terc não participa da ordem alfabética por ser utilizado apenas 
 
 3. Nomenclatura de alcinos ramificados
 
-    3.1 - Em qualquer alcino, a cadeia principal deve apresentar sempre os carbonos que participam da tripla ligação e o maior número de carbonos possível. Assim, tudo que ficar de fora da cadeia é ramificação;
-    3.2 - A numeração da cadeia principal do alcino deve iniciar-se sempre pelo carbono mais próximo das duas duplas e, se possível, haver o menor número possível para as ramificações;
-    3.3 - Para finalizar, basta utilizar a seguinte regra:
+    3.1. - Em qualquer alcino, a cadeia principal deve apresentar sempre os carbonos que participam da tripla ligação e o maior número de carbonos possível. Assim, tudo que ficar de fora da cadeia é ramificação;
+    3.2. - A numeração da cadeia principal do alcino deve iniciar-se sempre pelo carbono mais próximo das duas duplas e, se possível, haver o menor número possível para as ramificações;
+    3.3. - Para finalizar, basta utilizar a seguinte regra:
 
 Posições e nomes das ramificações em ordem alfabética separados por hifens + Prefixo do número de carbonos da cadeia principal + Posições da tripla + ino.
 
-
-Nesse exemplo, a cadeia principal e a sua numeração começam pela esquerda (por conter a tripla) e seguem até o \ce{CH3}, pois essa é a cadeia que apresenta o maior número de carbonos possível (total de seis carbonos – prefixo hex). Dessa forma, temos as ramificações metil (1 carbono) e etil (2 carbonos). O nome do composto, seguindo a ordem alfabética, é 3-etil-4-metil-hex-1-ino.
+Nesse exemplo, a cadeia principal e a sua numeração começam pela esquerda (por conter a tripla) e seguem até o \ce{CH3}, pois essa é a cadeia que apresenta o maior número de carbonos possível (total de seis carbonos – prefixo hex). Dessa forma, temos as ramificações metil (1 carbono) e etil (2 carbonos). O nome do composto, seguindo a ordem alfabética, é *3-etil-4-metil-hex-1-ino*.
 
 4. Nomenclatura de alcadienos ramificados
 
