@@ -152,8 +152,8 @@ Para realizar a nomenclatura de um hidrocarboneto ramificado, é necessário ide
 
 1. Nomenclatura de alcanos ramificados
  
- 1.1 - A cadeia principal de um alcano é sempre aquela que apresentar o maior número de carbonos e o maior número de ramificações;
- 1.2 - A numeração da cadeia deve ser iniciada sempre pela extremidade que estiver mais próxima das ramificações;
+ 1.1 - A cadeia principal de um alcano é sempre aquela que apresentar o maior número de carbonos e o maior número de ramificações;?
+ 1.2 - A numeração da cadeia deve ser iniciada sempre pela extremidade que estiver mais próxima das ramificações;?
  1.3 - Para finalizar, basta utilizar a seguinte regra:
 
    Posições e nomes das ramificações separados por hifens + Prefixo do número de carbonos da cadeia principal + an + o
