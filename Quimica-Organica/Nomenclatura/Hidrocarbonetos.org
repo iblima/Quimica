@@ -112,10 +112,121 @@ Exemplos:
 
 *** Nomenclatura dos Hidrocarbonetos Ramificados
 
+A nomenclatura de hidrocarbonetos ramificados depende do tipo de hidrocarboneto utilizado, em razão da sua localização na cadeia principal.
+
+Saber reconhecer um hidrocarboneto é muito importante, pois, com essa habilidade, é possível desenvolver outra, que é realizar corretamente a nomenclatura de hidrocarbonetos ramificados. Esses compostos podem ter representantes nas seguintes subclasses:
+
+- Alcanos
+
+- Alcenos
+
+- Alcinos
+
+- Alcadienos
+
+- Ciclanos
+
+- Ciclenos
+
+- Aromáticos
+
+Os *hidrocarbonetos ramificados* são todos aqueles cujas cadeias possuem mais de dois carbonos primários *(se abertas)* e pelo menos um carbono primário *(se fechadas)*, como mostrado nos exemplos abaixo:
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/3-Methyl-pentane-3D.png]]
+
+Cadeia aberta com pelo menos três carbonos primarios.
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Methylcyclobutane-3D.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Methylcyclobutane.png]]
+
+
+Cadeia fechada com pelo menos um carbono primário
+
+Para realizar a nomenclatura de um hidrocarboneto ramificado, é necessário identificar a cadeia principal, que, geralmente, apresenta o maior número de carbonos. Para isso, temos que levar em consideração a classe dos hidrocarbonetos com a qual estamos trabalhando, como relatado em cada caso:
+
 **** Hidrocarbonetos de Cadeia Aberta
+
+1. Nomenclatura de alcanos ramificados
+
+   1.1 - A cadeia principal de um alcano é sempre aquela que apresentar o maior número de carbonos e o maior número de ramificações;
+   1.2 - A numeração da cadeia deve ser iniciada sempre pela extremidade que estiver mais próxima das ramificações;
+   1.3 - Para finalizar, basta utilizar a seguinte regra:
+
+   Posições e nomes das ramificações separados por hifens + Prefixo do número de carbonos da cadeia principal + an + o
+
+   #+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/5-Ethyl-3-methyloctane.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/3-Ethyl-3-methyloctane-3D.png]]
+
+Alcano com duas ramificações.
+
+Nesse alcano, a cadeia principal inicia-se no \ce{CH_3} da parte inferior esquerda e segue para a direita até chegar ao último \ce{CH_3}. Isso acontece porque essa cadeia apresenta o maior número de carbonos (no caso oito – prefixo *oct*) e ramificações.
+
+A numeração também se inicia no \ce{CH3} da parte inferior esquerda, pois ele está mais próximo das ramificações. Dessa forma, temos as ramificações metil (1 carbono) e etil (2 carbonos) ligadas à cadeia principal. Assim sendo, o nome do composto é, seguindo a ordem alfabética, *5-etil-3-metiloctano*.
+
+2. Nomenclatura de alcenos ramificados
+
+   2.1 - Em qualquer alceno, a cadeia principal deve apresentar sempre todos os carbonos que participam das duas duplas e o maior número de carbonos possível. Assim, tudo que ficar de fora da cadeia é ramificação;
+   2.2 - A numeração da cadeia principal do alceno deve começar sempre pelo carbono mais próximo das duas duplas e, se possível, haver o menor número possível para as ramificações;
+   2.3 - Para finalizar, basta utilizar a seguinte regra:
+
+Posições e nomes das ramificações separados por hifens + Prefixo do número de carbonos da cadeia principal + Posição da dupla + en + o
+
+Nesse exemplo, a cadeia principal e a numeração começarão pelo CH3 (o primeiro da esquerda para direita), pois ele está mais próximo da ligação dupla e essa cadeia apresenta o maior número de carbonos possível. Dessa forma, as ramificações são 1 terc-butil e 3 metil. Assim sendo, o nome do composto, seguindo a ordem alfabética, é 3-terc-butil-4,5,5-trimetil-hept-2-eno.
+
+#+ATT  #+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/3-Terc-Butil-4-5-5-Trimetil-Hept-2-eno.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/3-Terc-Butil-4-5-5-Trimetil-Hept-2-eno-3D.png]]
+
+Alceno com quatro ramificações.
+
+Obs.: O termo Terc não participa da ordem alfabética por ser utilizado apenas para indicar o tipo de ramificação butil presente na cadeia.
+
+3. Nomenclatura de alcinos ramificados
+
+    3.1 - Em qualquer alcino, a cadeia principal deve apresentar sempre os carbonos que participam da tripla ligação e o maior número de carbonos possível. Assim, tudo que ficar de fora da cadeia é ramificação;
+    3.2 - A numeração da cadeia principal do alcino deve iniciar-se sempre pelo carbono mais próximo das duas duplas e, se possível, haver o menor número possível para as ramificações;
+    3.3 - Para finalizar, basta utilizar a seguinte regra:
+
+Posições e nomes das ramificações em ordem alfabética separados por hifens + Prefixo do número de carbonos da cadeia principal + Posições da tripla + ino.
+
+
+Nesse exemplo, a cadeia principal e a sua numeração começam pela esquerda (por conter a tripla) e seguem até o \ce{CH3}, pois essa é a cadeia que apresenta o maior número de carbonos possível (total de seis carbonos – prefixo hex). Dessa forma, temos as ramificações metil (1 carbono) e etil (2 carbonos). O nome do composto, seguindo a ordem alfabética, é 3-etil-4-metil-hex-1-ino.
+
+4. Nomenclatura de alcadienos ramificados
+
+   4.1 - Em qualquer alcadieno, a cadeia principal deve apresentar todos os carbonos que participam das duas duplas ligações e o maior número de carbonos possível. Assim, tudo que ficar de fora da cadeia é ramificação;
+   4.2 - A numeração da cadeia principal do alcadieno deve começar sempre pelo carbono mais próximo das duas duplas e, se possível, haver o menor número possível para as ramificações;
+   4.3 - Para finalizar, basta utilizar a seguinte regra:
+
+Posições e nomes das ramificações em ordem alfabética separados por hifens + Prefixo do número de carbonos da cadeia principal + Posições das duplas separadas por vírgulas + dieno
+
+#+ATT  #+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/2-Etil-4-Metil-Hepta-1-5-dieno.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/2-Etil-4-Metil-Hepta-1-5-dieno-3D.png]]
+
+
+A cadeia principal começa à esquerda e termina à direita por ter as duas duplas e o maior número de carbonos possível (sete carbonos – prefixo é hept). Dessa forma, permanecem as ramificações metil (1 carbono) e etil (2 carbonos). Já a numeração iniciou-se à esquerda por estar mais perto das duas duplas. O nome do composto, seguindo a ordem alfabética, é *2-etil-4-metil-hepta-1,5-dieno*.
 
 **** Hidrocarbonetos de Cadeia Fechada
 
+5. Nomenclatura de ciclanos ramificados
 
+6. Nomenclatura de ciclenos ramificados
+
+
+7. 
 **** Hidrocarbonetos de Cadeia Mistas
 
+
+8. Nomenclatura de aromáticos ramificados
