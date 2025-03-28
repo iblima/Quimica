@@ -98,6 +98,7 @@ Exemplos:
 #+ATTR_HTML: :style display:inline-block; margin:10px
 [[https://github.com/iblima/Quimica/blob/main/Images/Butane-3D.png]]
 
+
 *** Nomenclatura dos Alcenos
 
 *** Nomenclatura dos Alcinos
@@ -220,7 +221,7 @@ A cadeia principal começa à esquerda e termina à direita por ter as duas dupl
 
 **** Hidrocarbonetos de Cadeia Fechada
 
-5. Nomenclatura de ciclanos ramificados
+5. [@5] Nomenclatura de ciclanos ramificados
 
    5.1 - Independentemente do ciclano, ele sempre estará na cadeia principal. Assim, qualquer grupo localizado fora da cadeia principal é considerado uma ramificação;
    5.2 - A numeração da cadeia do ciclano é realizada apenas se ele apresentar mais de uma ramificação e inicia-se sempre pelo carbono da ramificação, que é escrita primeiro e segue a ordem alfabética;
@@ -243,7 +244,8 @@ A cadeia principal é o ciclo com cinco carbonos (prefixo pent). A numeração d
 # 1-Ethyl-3-methylcyclopentane
 # :: SMILES: CCC1CCC(C1)C
 
-6. Nomenclatura de ciclenos ramificados
+1. Nomenclatura de ciclenos ramificados
+2. 
    
 
    6.1 - O cicleno sempre estará na cadeia principal. Assim, qualquer grupo localizado fora da cadeia principal é considerado uma ramificação;
@@ -268,18 +270,18 @@ Posições e nomes das ramificações em ordem alfabética separados por hifens 
 A cadeia principal é o ciclo, que apresenta seis carbonos; logo, o prefixo é hex ou ex. Dessa forma, há duas ramificações metil na cadeia. A numeração inicia-se no carbono da dupla que tem a ramificação e segue o sentido horário para proporcionar o menor número para a outra ramificação. O nome desse composto é *1,3-dimetil-cicloexeno* [[https://pubchem.ncbi.nlm.nih.gov/compound/137726#section=InChI][1,3-dimetil-cicloexeno - Pubchem]]
 
 
-7.
+1. 
+2. 
 
    
 **** Hidrocarbonetos de Cadeia Mistas
 
 
-8. Nomenclatura de aromáticos ramificados
+
+1. Nomenclatura de aromáticos ramificados
+2. 
 
    
-1. Item A
-   1.1. Subitem B
-   1.2. 
-   1.4. Subitem E
-   
-2. Item E
+
+
+**** 
