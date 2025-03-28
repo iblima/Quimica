@@ -201,6 +201,7 @@ Posições e nomes das ramificações em ordem alfabética separados por hifens 
 Nesse exemplo, a cadeia principal e a sua numeração começam pela esquerda (por conter a tripla) e seguem até o \ce{CH3}, pois essa é a cadeia que apresenta o maior número de carbonos possível (total de seis carbonos – prefixo hex). Dessa forma, temos as ramificações metil (1 carbono) e etil (2 carbonos). O nome do composto, seguindo a ordem alfabética, é *3-etil-4-metil-hex-1-ino*.
 
 4. Nomenclatura de alcadienos ramificados
+   
 
    4.1 - Em qualquer alcadieno, a cadeia principal deve apresentar todos os carbonos que participam das duas duplas ligações e o maior número de carbonos possível. Assim, tudo que ficar de fora da cadeia é ramificação;
    4.2 - A numeração da cadeia principal do alcadieno deve começar sempre pelo carbono mais próximo das duas duplas e, se possível, haver o menor número possível para as ramificações;
@@ -246,7 +247,9 @@ A cadeia principal é o ciclo com cinco carbonos (prefixo pent). A numeração d
    
 
    6.1 - O cicleno sempre estará na cadeia principal. Assim, qualquer grupo localizado fora da cadeia principal é considerado uma ramificação;
+   
    6.2 - A numeração da cadeia do cicleno inicia-se obrigatoriamente em um dos carbonos da ligação dupla, sendo obrigatório que o carbono número 2 seja o outro carbono da dupla. O restante da numeração da cadeia é feito para dar o menor número possível para as ramificações;
+   
    6.3 - Para finalizar, basta utilizar a seguinte regra:
 
 Posições e nomes das ramificações em ordem alfabética separados por hifens + ciclo + Prefixo do número de carbonos da cadeia principal + eno
@@ -265,25 +268,18 @@ Posições e nomes das ramificações em ordem alfabética separados por hifens 
 A cadeia principal é o ciclo, que apresenta seis carbonos; logo, o prefixo é hex ou ex. Dessa forma, há duas ramificações metil na cadeia. A numeração inicia-se no carbono da dupla que tem a ramificação e segue o sentido horário para proporcionar o menor número para a outra ramificação. O nome desse composto é *1,3-dimetil-cicloexeno* [[https://pubchem.ncbi.nlm.nih.gov/compound/137726#section=InChI][1,3-dimetil-cicloexeno - Pubchem]]
 
 
-7. 
+7.
+
+   
 **** Hidrocarbonetos de Cadeia Mistas
 
 
 8. Nomenclatura de aromáticos ramificados
 
-
+   
 1. Item A
    1.1. Subitem B
-   1.2. Subitem C
-2. Item D
-
-#+BEGIN_EXPORT latex
-\begin{enumerate}
-\item Item A
-  \begin{enumerate}
-  \item Subitem B
-  \item Subitem C
-  \end{enumerate}
-\item Item D
-\end{enumerate}
-#+END_EXPORT
+   1.2. 
+   1.4. Subitem E
+   
+2. Item E
