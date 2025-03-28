@@ -184,7 +184,7 @@ Posições e nomes das ramificações separados por hifens + Prefixo do número 
 
 Nesse exemplo, a cadeia principal e a numeração começarão pelo CH3 (o primeiro da esquerda para direita), pois ele está mais próximo da ligação dupla e essa cadeia apresenta o maior número de carbonos possível. Dessa forma, as ramificações são 1 terc-butil e 3 metil. Assim sendo, o nome do composto, seguindo a ordem alfabética, é 3-terc-butil-4,5,5-trimetil-hept-2-eno.
 
-#+ATT  #+ATTR_HTML: :style display:inline-block; margin:10px
+#+ATTR_HTML: :style display:inline-block; margin:10px
 [[https://github.com/iblima/Quimica/blob/main/Images/3-Terc-Butil-4-5-5-Trimetil-Hept-2-eno.png]]
 
 #+ATTR_HTML: :style display:inline-block; margin:10px
@@ -229,7 +229,7 @@ A cadeia principal começa à esquerda e termina à direita por ter as duas dupl
 
 **** Hidrocarbonetos de Cadeia Fechada
 
-5. [@5] Nomenclatura de ciclanos ramificados
+***** 5. [@5] Nomenclatura de ciclanos ramificados
 
    5.1 - Independentemente do ciclano, ele sempre estará na cadeia principal. Assim, qualquer grupo localizado fora da cadeia principal é considerado uma ramificação;
    
