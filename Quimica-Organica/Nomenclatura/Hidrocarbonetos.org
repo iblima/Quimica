@@ -100,6 +100,7 @@ Exemplos:
 
 *** Nomenclatura dos Alcenos
 
+
 *** Nomenclatura dos Alcinos
 
 *** Nomenclatura dos Alcadienos
@@ -225,9 +226,7 @@ Posições e nomes das ramificações em ordem alfabética separados por hifens 
 
 A cadeia principal começa à esquerda e termina à direita por ter as duas duplas e o maior número de carbonos possível (sete carbonos – prefixo é hept). Dessa forma, permanecem as ramificações metil (1 carbono) e etil (2 carbonos). Já a numeração iniciou-se à esquerda por estar mais perto das duas duplas. O nome do composto, seguindo a ordem alfabética, é *2-etil-4-metil-hepta-1,5-dieno*.
 
-**** 
-
-**** Hidrocarbonetos de Cadeia Fechada
+**** Hidrocarbonetos de Cadeia Mista
 
 5. [@5] Nomenclatura de ciclanos ramificados
 
@@ -254,7 +253,7 @@ A cadeia principal é o ciclo com cinco carbonos (prefixo pent). A numeração d
 # 1-Ethyl-3-methylcyclopentane
 # :: SMILES: CCC1CCC(C1)C
 
-***** 6. [@6] Nomenclatura de ciclenos ramificados
+6. [@6] Nomenclatura de ciclenos ramificados
 
    6.1 - O cicleno sempre estará na cadeia principal. Assim, qualquer grupo localizado fora da cadeia principal é considerado uma ramificação;
    
@@ -277,15 +276,65 @@ A cadeia principal é o ciclo, que apresenta seis carbonos; logo, o prefixo é h
 
 
 
-7. [@7] A
+7. [@7] Nomenclatura de ciclinos ramificados
+
+   7.1. - O cicleno sempre estará na cadeia principal. Assim, qualquer grupo localizado for da cadeia principal é considerado uma ramificação;
+
+   7.2. - A numeração da cadeia do ciclino inicia-se obrigatoriamente em um dos carbonos da ligação tripla, sendo obrigatório que o carbono número 2 seja o outro carbono da tripla. O restante da numeração da cadeia é feito para dar o menor número possível para as ramificações;
+
+   7.3. - *Limitações*:
+
+        - *Anéis < 8C:* Muito tensionados (dificilmente isoláveis).
+	- *Anéis = 8C:* Menor anel estável com tripla.
+
+   7.3. - Para finalizar, basta utilizar a seguinte regra:
+
+Posições e nomes das ramificações em ordem alfabética separados por hifens + ciclo + Prefixo do número de carbonos da cadeia principal + ino
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/5-Metil-Ciclo-Oct-1-ino.png]]
 
 
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/5-Metil-Ciclo-Oct-1-ino-3D.png]]
 
+A cadeia principal é o ciclo, que apresenta oito carbonos; logo, o prefixo é oct. Dessa forma, há uma ramificação metil na cadeia. A numeração inicia-se no carbono da tripla ligação e segue o sentido ante-horário para proporcionar o menor número para a ramificação. O nome desse composto é *5-metil-ciclooct-1-ino. [[https://pubchem.ncbi.nlm.nih.gov/compound/76785178][PubChem Link = 76785178]]
 
-**** Hidrocarbonetos de Cadeia Mistas
+*Muitos cicloalcinos são intermediários reativos e só existem em artigos.*
 
-7. [@7] Nomenclatura de aromáticos ramificados
+8. [@8] Nomenclatura de aromáticos ramificados
 
+   O aromático (benzeno, naftaleno, antraceno e fenantreno) sempre estará na cadeia principal. Logo, qualquer grupo localizado fora da cadeia principal é considerado uma ramificação. Veja a regra de nomenclatura:
 
+Nome ou nomes das ramificações em ordem alfabética + Nome do Aromático
 
-**** 
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Ethyl-4-methylbenzene-00.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Ethyl-4-methylbenzene.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Ethyl-4-methylbenzene-3D.png]]
+
+Como a cadeia apresenta duas ramificações, há necessidade de indicar a posição das ramificações. Logo, o nome do composto é 1-etil-4-metil-benzeno, haja vista que as ramificação, que tem apenas um carbono (met), e dois carbons (et) estão ligadas ao aromático benzeno nas posições 4 e 1 respectivamente.
+
+Como a cadeia principal é o benzeno, já partimos para a numeração. Devemos priorizar o carbono que possui o etil e seguir no sentido horário para proporcionar o menor número possível para o metil. O nome do composto é: 1-etil-3metil-benzeno.
+
+Nome IUPAC *1-Etil-4-Metilbenzeno* Nome comum 4-Etiltolueno.  [[https://pubchem.ncbi.nlm.nih.gov/compound/12160][PubChem = 12160]]
+
+Se o aromático não for o benzeno, a cadeia deve ser numerada independentemente da quantidade de ramificações. A numeração sempre se inicia por um dos carbonos da vertical (de cima ou da parte de baixo) e deve dar o menor número possível às ramificações e respeitar a ordem alfabética, caso tenha mais de uma ramificação.
+
+O antraceno, que é a cadeia principal, é numerado pelo carbono vertical de cima, porque ele possui o etil. Em seguida, a numeração segue no sentido horário em direção ao metil. O nome do composto é *1-etil-4-metil-antraceno*. [[https://pubchem.ncbi.nlm.nih.gov/compound/14818472][PubChem = 1418472]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Ethyl-4-methylanthracene-00.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Ethyl-4-methylanthracene-01.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Ethyl-4-methylanthracene.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Ethyl-4-methylanthracene-3D.png]]
