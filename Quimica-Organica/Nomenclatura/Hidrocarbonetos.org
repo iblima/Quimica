@@ -164,11 +164,73 @@ CH2=C=CH2: propadieno
 
 CH2=C=CH-CH2-CH3: pent-1,2-dieno
 
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Penta-1-2-diene-00.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Penta-1-2-diene.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Penta-1-2-diene-3D.png]]
+
+
+** Nomenclatura dos hidrocarbonetos cíclicos
+
+Para nomear os hidrocarbonetos cíclicos, usa-se as mesmas regras de nomenclaturas citadas, o diferencial das moléculas de cadeia fechada será o termo ciclo antes da nomenclatura referente à cadeia principal.
+
 *** Nomenclatura dos Cicloalcanos (Ciclanos)
+
+Cicloalcanos são hidrocarbonetos de cadeia fechada insaturados, ou seja, que não possuem duplas ou triplas ligações. A nomenclatura para esse tipo de molécula será dada por:
+
+Nomenclatura e localização da ramificação (se houver) + ciclo + regra geral + terminação -ano
+
+Ciclopropano [[https://pubchem.ncbi.nlm.nih.gov/compound/6351][PubChem = 6351]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Cyclopropane-00.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Cyclopropane.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Cyclopropane-3D.png]]
 
 *** Nomenclatura dos Cicloalcenos (Ciclenos)
 
+Cicloalcenos é a função dos hidrocarbonetos de cadeia fechada que possuem uma instauração, uma dupla ligação. A nomenclatura para esse tipo de molécula será dada por:
+
+Nomenclatura e localização da ramificação (se houver) + ciclo + regra geral + terminação -eno.
+
+Ciclopropeno
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Cyclopropene-00.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Cyclopropene.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Cyclopropene-3D.png]]
+
 *** Nomenclatura dos Cicloalcinos (Ciclinos)
+
+*** Nomenclatura dos Cicloalcadieno
+
+Função composta por moléculas de hidrocarbonetos com duas instaurações, duas duplas ligações. A nomenclatura para esse tipo de molécula será dada por:
+
+Nomenclatura e localização da ramificação (se houver) + ciclo + regra geral + terminação -dieno
+
+Ciclopent-1,3-dieno
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Cyclopentadiene-00.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Cyclopentadiene.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Cyclopentadiene-3D.png]]
+
 
 *** Nomenclatura dos Hidrocarbonetos Ramificados
 
