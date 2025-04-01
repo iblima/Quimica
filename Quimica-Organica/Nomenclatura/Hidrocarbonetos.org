@@ -100,10 +100,66 @@ Exemplos:
 
 *** Nomenclatura dos Alcenos
 
+Alcenos serão os hidrocarbonetos de cadeia aberta que possuem uma insaturação, uma dupla ligação, a nomenclatura para esse tipo de composto será dada por:
+
+Regra geral + terminação -eno
+
+Exemplos:
+
+CH3-CH=CH2: propeno
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propene-00.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propene.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propene-3D.png]]
+
+
+CH2=CH-CH2-CH3: but-1-eno
+
+CH3-CH=CH-CH2-CH3: pent-2-eno
 
 *** Nomenclatura dos Alcinos
 
+Alcinos são hidrocarbonetos insaturados com uma tripla ligação. A nomenclatura para esse tipo de molécula será dada por:
+
+Regra geral + terminação -ino
+
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propyne-00.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propyne.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propyne-3D.png]]
+
+
 *** Nomenclatura dos Alcadienos
+
+Alcadienos são os hidrocarbonetos acíclicos (cadeia aberta) que possuem duas insaturações, duas duplas ligações na cadeia (OBS.: As insaturações podem estar próximas ou distantes na cadeia principal). A nomenclatura para esse tipo de composto é dada por:
+
+Regra geral + terminação -dieno
+
+Exemplos:
+
+CH2=C=CH2: propadieno
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propadiene-00.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propadiene.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propadiene-3D.png]]
+
+
+CH2=C=CH-CH2-CH3: pent-1,2-dieno
 
 *** Nomenclatura dos Cicloalcanos (Ciclanos)
 
@@ -208,6 +264,7 @@ Posições e nomes das ramificações em ordem alfabética separados por hifens 
 Nesse exemplo, a cadeia principal e a sua numeração começam pela esquerda (por conter a tripla) e seguem até o \ce{CH3}, pois essa é a cadeia que apresenta o maior número de carbonos possível (total de seis carbonos – prefixo hex). Dessa forma, temos as ramificações metil (1 carbono) e etil (2 carbonos). O nome do composto, seguindo a ordem alfabética, é *3-etil-4-metil-hex-1-ino*.
 
 4. [@4] Nomenclatura de alcadienos ramificados
+   
 
    4.1 - Em qualquer alcadieno, a cadeia principal deve apresentar todos os carbonos que participam das duas duplas ligações e o maior número de carbonos possível. Assim, tudo que ficar de fora da cadeia é ramificação;
    
