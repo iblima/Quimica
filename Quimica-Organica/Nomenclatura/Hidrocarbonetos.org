@@ -87,6 +87,9 @@ Exemplos:
 [[https://github.com/iblima/Quimica/blob/main/Images/Propane-00.png]]
 
 #+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Propane.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
 [[https://github.com/iblima/Quimica/blob/main/Images/Propane-3D.png]]
 
 - CH3-CH2-CH2-CH3 : Butano
