@@ -232,6 +232,37 @@ Ciclopent-1,3-dieno
 [[https://github.com/iblima/Quimica/blob/main/Images/Cyclopentadiene-3D.png]]
 
 
+*** Nomenclatura dos Hidrocarbonetos Aromáticos
+
+Um composto aromático não segue as mesmas regras dos demais hidrocarbonetos, recebendo nome específico. Um hidrocarboneto aromático será aquele com:
+
+- cadeia fechada;
+
+- insaturação;
+
+- ligações conjugadas, ou seja, as insaturações alternam-se entre simples e duplas.
+
+A aromaticidade de um composto é marcada pela transição de elétrons entre os carbonos. O benzeno é um dos hidrocarbonetos aromáticos mais citados, a nomenclatura para os compostos aromáticos derivados dele será dada de acordo com o posicionamento dos substituintes:
+
+
+Benzeno C_6H_6 [[https://pubchem.ncbi.nlm.nih.gov/compound/241][PubChem = 241]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Benzene-00.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Benzene.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Benzene-3D.png]]
+
+
+Substituintes na posição 1,2: orto
+
+Substituintes na posição 1,3: meta
+
+Substituintes na posição 1,4: para
+
 *** Nomenclatura dos Hidrocarbonetos Ramificados
 
 A nomenclatura de hidrocarbonetos ramificados depende do tipo de hidrocarboneto utilizado, em razão da sua localização na cadeia principal.
@@ -283,7 +314,8 @@ Para realizar a nomenclatura de um hidrocarboneto ramificado, é necessário ide
    Posições e nomes das ramificações separados por hifens + Prefixo do número de carbonos da cadeia principal + an + o
 
 #+ATTR_HTML: :style display:inline-block; margin:10px
-[[https://github.com/iblima/Quimica/blob/main/Images/5-Ethyl-3-methyloctane.png]]
+[[https://github.com/iblima/Quim
+ica/blob/main/Images/5-Ethyl-3-methyloctane.png]]
 
 #+ATTR_HTML: :style display:inline-block; margin:10px
 [[https://github.com/iblima/Quimica/blob/main/Images/5-Ethyl-3-methyloctane-3D.png]]
