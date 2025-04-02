@@ -1,0 +1,98 @@
+* Álcoois (-OH)
+
+Os compostos pertencentes à função *álcool* apresentam o grupo funcional *hidroxila* (-OH) ligado a carbono saturado. Por isso, a fórmula geral de um álcool é *R–OH*.
+
+Os álcoois na nomenclatura oficial levam o sufixo *ol*. Na nomenclatura usual, utiliza-se a denominação álcool (sufixo) + ílico.
+
+Os álcoois são classificados em primários, secundários ou terciários.
+
+- Álcoois primários: a hidroxila está ligada a um carbono primário;
+- Álcoois secundários: a hidroxila está ligada a um carbono secundário;
+- Álcoois terciários: a hidroxila está ligada a um carbono secundário.
+
+Quando um composto orgânico apresenta apenas uma hidroxila, temos um monoálcool. Um composto que apresenta mais de uma hidroxila na cadeia recebe o nome de poliálcool.
+
+Os álcoois mais simples são o metanol (CH3OH), que é utilizado como solvente e o etanol (CH3CH2OH), presente nas bebidas alcoólicas e combustível.
+
+A nomenclatura dos álcoois obedece a IUPAC (União Internacional de Química Pura e Aplicada, em português):
+
+Prefixo: número de carbonos;
+Intermédio: tipo de ligação química;
+Sufixo: ol, de álcool.
+
+Exemplo de nomenclatura: Etanol (álcool etílico), CH3CH2OH [[https://pubchem.ncbi.nlm.nih.gov/compound/702][Pubchem = 702]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Ethanol-00.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Ethanol.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Ethanol-3D.png]]
+
+
+Prefixo: ET, que corresponde a 2 carbonos;
+Intermédio: AN, pois o composto é formado apenas por ligações simples;
+Sufixo: OL, que corresponde à função álcool.
+
+A solubilidade de um álcool em água diminui com o aumento de sua cadeia carbônica e aumenta com o número de grupos -OH.
+Quanto ao número de grupos -OH, um álcool pode ser:
+
+** Classificação
+
+Os álcoois também podem ser classificados mediante o número de hidroxilas:
+
+- monoálcool (apenas um grupo -OH);
+- diálcool ou diol (dois grupos -OH);
+- triálcool ou triol (três grupos -OH;
+- poliálcool.
+
+** Quanto a posição do grupo -OH
+
+Podemos ter álcoois:
+
+- primário   >> -OH ligado a carbono primário;
+- secundário >> -OH ligado a carbono secundário;
+- terciário  >> -OH ligado a carbono terciário.
+
+  
+** Nomenclatura
+
+A nomenclatura dos álcoois segue a regra da IUPAC (União Internacional de Química Pura e Aplicada, em português).
+
+Os nomes dos álcoois são formados por prefixo, uma palavra intermediária e um sufixo, da seguinte forma:
+
+- prefixo - indica o número de carbonos;
+- infixo - indica o tipo de ligação química;
+- sufixo - indica a função orgânica. Neste caso, ol é o sufixo para os álcoois.
+
+** Exemplos de Álcoois e Aplicações
+
+Os principais álcoois são o etanol e o metanol.
+
+O etanol ou álcool etílico (fórmula molecular C2H6O) é o tipo de álcool utilizado nas bebidas alcoólicas e nos combustíveis.
+
+Ele tende a substituir o lugar da gasolina. Isso porque ele é mais econômico e não produz dióxido de enxofre (SO2), ou seja, é menos poluente.
+
+Depois dos Estados Unidos, o Brasil lidera a produção de etanol a nível mundial. No nosso país, a sua principal matéria-prima é a cana de açúcar.
+
+O metanol ou álcool metílico (fórmula molecular é CH3OH) é utilizado como solvente na indústria farmacêutica e também como combustível de carros de corrida.
+
+É altamente tóxico, motivo pelo qual a sua ingestão pode provocar graves danos e até mesmo a morte.
+
+Há também o álcool iodado, que é usado como um antisséptico, e o álcool isopropílico, que é usado para limpar aparelhos eletrônicos.
+
+A glicerina ou glicerol, por sua vez, é usada em produtos de cosmética. Enquanto o xiliton é um poliálcool usado como adoçante natural.
+
+** Propriedades
+
+- Ácido
+- Cheiro característico
+- Densidade mais baixa do que da água
+- Incolor
+- Inflamável
+- Líquido, quando tem até 11 carbonos. Sólido, acima de 11 carbonos
+- Molécula polar
+- Ponto de ebulição alto
+- Tóxico
