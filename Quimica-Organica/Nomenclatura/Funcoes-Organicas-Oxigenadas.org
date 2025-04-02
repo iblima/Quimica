@@ -1,1 +1,15 @@
 * Funções Orgânicas Oxigenadas
+
+As funções orgânicas oxigenadas são um dos 4 grupos funcionais dos compostos orgânicos.
+
+Os compostos que pertencem a essa função apresentam um átomo de oxigênio ligado a um carbono da cadeia carbônica.
+
+As funções oxigenadas são: aldeídos, cetonas, ácidos carboxílicos, ésteres, éteres, fenóis e álcoois.
+
+- [[./Quimica-Organica/Nomenclatura/Alcoois.org][Álcoois]]
+- Fenóis
+- Aldeídos
+- Cetonas
+- Ácidos Carboxílicos
+- Ésteres
+- Éteres
