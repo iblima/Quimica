@@ -6,7 +6,7 @@ Os compostos que pertencem a essa função apresentam um átomo de oxigênio lig
 
 As funções oxigenadas são: aldeídos, cetonas, ácidos carboxílicos, ésteres, éteres, fenóis e álcoois.
 
-- [[./Quimica-Organica/Nomenclatura/Alcoois.org][Álcoois]]
+- [[./Quimica-Organica/Nomenclatura/Alcoois.org][Álcoois]
 - Fenóis
 - Aldeídos
 - Cetonas
