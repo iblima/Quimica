@@ -1,0 +1,21 @@
+#+TITLE: Lista de Exercício Modulo I
+#+OPTIONS: tex:t html-mathjax:t
+
+* Questão
+** Enunciado (CEFET-MG)
+O gosto amargo da cerveja se deve ao mirceno, substância proveniente das folhas de lúpulo que é adicionada à bebida durante sua fabricação. Em relação à estrutura desse composto, é correto afirmar que possui:
+
+** Alternativas
+1. Fórmula molecular \(\text{C}_9\text{H}_{12}\).
+2. Dois carbonos assimétricos.
+3. Três ligações \(\pi\) e vinte \(\sigma\).
+4. Cadeia carbônica linear e saturada.
+5. Três carbonos híbridos \(sp^3\) e seis \(sp^2\).
+
+** Resposta (oculta)
+#+BEGIN_HTML
+<details>
+<summary>Resposta correta</summary>
+Alternativa <b>E</b>: três carbonos híbridos \(sp^3\) e seis \(sp^2\).
+</details>
+#+END_HTML
