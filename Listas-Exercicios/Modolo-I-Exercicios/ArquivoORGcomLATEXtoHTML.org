@@ -6,8 +6,9 @@
 O gosto amargo da cerveja se deve ao mirceno, substância proveniente das folhas de lúpulo que é adicionada à bebida durante sua fabricação. Em relação à estrutura desse composto, é correto afirmar que possui:
 
 ** Alternativas
-a. Fórmula molecular \(\text{C}_9\text{H}_{12}\).
-b. Dois carbonos assimétricos.
+# 1. Fórmula molecular \(\text{C}_9\text{H}_{12}\).
+1. Fórmula molecular C9H12.
+2. Dois carbonos assimétricos.
 3. Três ligações \(\pi\) e vinte \(\sigma\).
 4. Cadeia carbônica linear e saturada.
 5. Três carbonos híbridos \(sp^3\) e seis \(sp^2\).
