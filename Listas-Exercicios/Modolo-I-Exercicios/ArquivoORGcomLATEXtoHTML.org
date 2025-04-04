@@ -7,7 +7,7 @@ O gosto amargo da cerveja se deve ao mirceno, substância proveniente das folhas
 
 ** Alternativas
 # 1. Fórmula molecular \(\text{C}_9\text{H}_{12}\).
-1. Fórmula molecular $$C_9H_1_2.$$
+1. Fórmula molecular $C9H12$.
 2. Dois carbonos assimétricos.
 3. Três ligações \(\pi\) e vinte \(\sigma\).
 4. Cadeia carbônica linear e saturada.
