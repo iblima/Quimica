@@ -42,25 +42,31 @@ Perceba que teremos nessa molécula uma ramificação, e a cadeia principal ter�
    
 A contagem de carbonos da cadeia principal é usada para localizar-se as ramificações e insaturações. A regra estabelece que se deve iniciar a contagem pelo lado mais próximo da instauração e ramificação, a soma dos numerais de localização que aparecem na nomenclatura deve ser a menor possível, essa mesma contagem é usada para definir-se o prefixo da nomenclatura:
 
-- 1 carbono: met-
-
-- 2 carbonos: et-
-
-- 3 carbonos: prop-
-
-- 4 carbonos: but-
-
-- 5 carbonos: hept-
-
-- 6 carbonos: hex-
-
-- 7 carbonos: hept-
-
-- 8 carbonos: oct-
-
-- 9 carbonos: non-
-
-- 10 carbonos: dec-
+| Quantidade de Carbono | Prefixo |
+| C                     |Met      |
+| C-C                   |Et       |
+| C-C-C                 |Prop     |
+| C-C-C-C               |But      |
+| C-C-C-C-C             |Pent     |
+| C-C-C-C-C-C           |Hex      |
+| C-C-C-C-C-C-C         |Hept     |
+| C-C-C-C-C-C-C-C       |Oct      |
+| C-C-C-C-C-C-C-C-C     |Non      |
+| C-C-C-C-C-C-C-C-C-C   |Dec      |
+| C-C-C-C-C-C-C-C-C-C-C |Undec    |
+| C-C-C-C-C-C-C-C-C-C-C-C     |Dodec    |
+| C-C-C-C-C-C-C-C-C-C-C-C-C   |Tridec   |
+| C-C-C-C-C-C-C-C-C-C-C-C-C-C |Tetradec |
+| 20 Carbonos |Eicos |
+| 21 Carbonos |Heneicos|
+| 30 Carbonos |Triacont |
+| 40 Carbonos |Tetracont |
+| 50 Carbonos |Pentacont |
+| 60 Carbonos |Hexacont |
+| 70 Carbonos |Heptcont |
+| 80 Carbonos |Octacont |
+| 90 Carbonos |Nonacont |
+| 100 Carbonos |Hect |
 
 
 *** Nomenclatura dos Alcanos
