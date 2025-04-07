@@ -1,7 +1,27 @@
 * Tabela
 
 | Quantidade de Carbono | Prefixo |
-| C                     |   Met   |
-| C-C                   |    Et   |
-| C-C-C                 |   Prop  |
-| C-C-C-C               |   But   |
+| C                     |Met      |
+| C-C                   |Et       |
+| C-C-C                 |Prop     |
+| C-C-C-C               |But      |
+| C-C-C-C-C             |Pent     |
+| C-C-C-C-C-C           |Hex      |
+| C-C-C-C-C-C-C         |Hept     |
+| C-C-C-C-C-C-C-C       |Oct      |
+| C-C-C-C-C-C-C-C-C     |Non      |
+| C-C-C-C-C-C-C-C-C-C   |Dec      |
+| C-C-C-C-C-C-C-C-C-C-C |Undec    |
+| C-C-C-C-C-C-C-C-C-C-C-C     |Dodec    |
+| C-C-C-C-C-C-C-C-C-C-C-C-C   |Tridec   |
+| C-C-C-C-C-C-C-C-C-C-C-C-C-C |Tetradec |
+| 20 Carbonos |Eicos |
+| 21 Carbonos |Heneicos|
+| 30 Carbonos |Triacont |
+| 40 Carbonos |Tetracont |
+| 50 Carbonos |Pentacont |
+| 60 Carbonos |Hexacont |
+| 70 Carbonos |Heptcont |
+| 80 Carbonos |Octacont |
+| 90 Carbonos |Nonacont |
+| 100 Carbonos |Hect |
