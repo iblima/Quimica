@@ -17,7 +17,7 @@
 
 ** Nomenclatura dos Hidrocarbonetos
 
-A *nomenclatura para moléculas de hidrocarbonetos* é estabelecida, pela União de Química Pura e Aplicada (*IUPAC*), com regras específicas, que definem bem a estrutura de cada composto. Os hidrocarbonetos recebem um prefixo de acordo com o número de carbonos, e as ramificações e insaturações também são nomeadas e localizadas.
+A *nomenclatura para moléculas de hidrocarbonetos* é estabelecida, pela União de Química Pura e Aplicada (*IUPAC*), com regras específicas, que definem bem a estrutura de cada composto. Os hidrocarbonetos recebem um prefixo de acordo com o número de carbonos, e as ramificações e insaturações também são nomeadas e localizadas, para os hidrocarbonetos usa-se a terminação *"o"*.
 
 Os hidrocarbonetos de cadeia aberta compõem as funções alcanos, alcenos, alcadienos e alcinos, que se diferenciam pelo número de insaturações. As funções cíclicas — cicloalcano, cicloalceno, cicloalcadieno — seguem a mesma lógica, sendo que, nesse caso, os hidrocarbonetos terão cadeia fechada.
 
