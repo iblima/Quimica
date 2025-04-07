@@ -1,7 +1,6 @@
 * Tabela
 
 | Quantidade de Carbono | Prefixo |
-|:---------------------:|:-------:|
 | C                     |   Met   |
 | C-C                   |    Et   |
 | C-C-C                 |   Prop  |
