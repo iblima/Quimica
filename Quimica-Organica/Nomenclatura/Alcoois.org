@@ -16,9 +16,9 @@ Os álcoois mais simples são o  metanol (CH3OH), que é utilizado como solvente
 
 A nomenclatura dos álcoois obedece a IUPAC (União Internacional de Química Pura e Aplicada, em português):
 
-Prefixo: número de carbonos ([[https://github.com/iblima/Quimica/blob/main/Quimica-Organica/Nomenclatura/Hidrocarbonetos.org#2-contagem-de-carbonos][Veja tabela em Hidrocarbonetos]]);
-Intermédio: tipo de ligação química;
-Sufixo: ol, de álcool.
+- Prefixo: número de carbonos ([[https://github.com/iblima/Quimica/blob/main/Quimica-Organica/Nomenclatura/Hidrocarbonetos.org#2-contagem-de-carbonos][Veja tabela em Hidrocarbonetos]]);
+- Intermédio: tipo de ligação química;
+- Sufixo: ol, de álcool.
 
 Exemplo de nomenclatura: Etanol (álcool etílico), CH3CH2OH [[https://pubchem.ncbi.nlm.nih.gov/compound/702][Pubchem = 702]]
 
