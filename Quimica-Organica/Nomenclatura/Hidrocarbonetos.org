@@ -71,6 +71,22 @@ A contagem de carbonos da cadeia principal é usada para localizar-se as ramific
 | 100 Carbonos |Hect |
 
 
+*** 3. Insaturações
+
+*Insaturação* é um conceito fundamental em química que descreve a presença de *ligações duplas ou triplas* entre átomos de carbono em uma molécula orgânica, indicando que nem todos os átomos estão ligados ao número máximo possível de hidrogênios (como ocorre em compostos *saturados*, como os alcanos). Em compostos *insaturados* (como alcenos e alcinos), essas ligações múltiplas criam regiões de alta reatividade, permitindo reações como *adição eletrofílica* (ex.: hidrogenação, halogenação) e *polimerização*. A insaturação também está presente em ácidos graxos (como ômega-3 e ômega-6), onde influencia propriedades físicas e biológicas — por exemplo, gorduras insaturadas tendem a ser líquidas em temperatura ambiente (óleos), enquanto as saturadas são sólidas (gorduras). Em resumo, a insaturação define não apenas a estrutura molecular, mas também a *reatividade química* e as *aplicações práticas* dos compostos.
+
+| Infixo              |       |
+| Saturação da Cadeia |  Infixo |
+| Saturadas Ligação Simples "-"   | AN |
+| Insaturadas Ligação Dupla "=" | EN |
+| Instaturadas Ligação 2 Duplas "=" "=" | DIEN |
+| Insaturadas Ligações 3 Duplas "=" "=" "=" | TRIEN |
+| Insaturadas Ligação Tripla "~" | IN |
+| Insaturadas Ligações 2 Triplas "~" "~" | DIIN |
+| Insaturadas Ligações 3 Triplas "~" "~" "~" | TRIIN |
+
+*OBS.:* As insaturações podem estar juntas "H_2C=C=CH_2" ou "H_2C=CH_2-HC=CH_2"
+
 *** Nomenclatura dos Alcanos
 
 A função a que pertence a molécula está diretamente ligada à terminação da nomenclatura. Alcanos são as moléculas de cadeia aberta que não possuem insaturações, e a nomenclatura para compostos dessa função será dada por:
