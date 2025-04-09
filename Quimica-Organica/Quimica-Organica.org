@@ -190,8 +190,8 @@ A função química representa um grupo de compostos com propriedades químicas 
 De acordo com os grupos funcionais, as funções orgânicas são as seguintes:
 
 - *Funções Hidrogenadas*: Composto formado por carbono e hidrogênio, os chamados por *Hidrocarbonetos* (Alcanos, Alcenos, Alcinos, Alcadienos, Cicloalcanos, Cicloalcenos, Clicoalcinos).
-- *Funções Nitrogenadas*: Composto formado de nitrogênio na cadeia carbônica, são eles: Aminas, Amidas, Nitrilas e Nitrocompostos.
 - *Funções Oxigenadas*: Composto formado de oxigênio na cadeia carbônica, são eles: Aldeídos, Cetonas, Ácidos carboxílicos, Ésteres, Éteres, Fenóis, Álcoois.
+- *Funções Nitrogenadas*: Composto formado de nitrogênio na cadeia carbônica, são eles: Aminas, Amidas, Nitrilas e Nitrocompostos.
 - *Funções Halogenadas*: Composto formado por haletos, são eles o Flúor (F), Cloro (Cl), Bromo (Br), Iodo (I) e Astato (At).
 
 ** Noclemclatura dos Compostos Orgânicos
