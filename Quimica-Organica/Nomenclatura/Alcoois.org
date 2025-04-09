@@ -12,11 +12,11 @@ Os álcoois são classificados em primários, secundários ou terciários.
 
 Quando um composto orgânico apresenta apenas uma hidroxila, temos um monoálcool. Um composto que apresenta mais de uma hidroxila na cadeia recebe o nome de poliálcool.
 
-Os álcoois mais simples são o [[./Substance/Metanol.org][metanol]] (CH3OH), que é utilizado como solvente e o etanol (CH3CH2OH), presente nas bebidas alcoólicas e combustível.
+Os álcoois mais simples são o  metanol (CH3OH), que é utilizado como solvente e o etanol (CH3CH2OH), presente nas bebidas alcoólicas e combustível.
 
 A nomenclatura dos álcoois obedece a IUPAC (União Internacional de Química Pura e Aplicada, em português):
 
-Prefixo: número de carbonos;
+Prefixo: número de carbonos ([[https://github.com/iblima/Quimica/blob/main/Quimica-Organica/Nomenclatura/Hidrocarbonetos.org#2-contagem-de-carbonos][Veja tabela em Hidrocarbonetos]]);
 Intermédio: tipo de ligação química;
 Sufixo: ol, de álcool.
 
@@ -96,3 +96,5 @@ A glicerina ou glicerol, por sua vez, é usada em produtos de cosmética. Enquan
 - Molécula polar
 - Ponto de ebulição alto
 - Tóxico
+
+
