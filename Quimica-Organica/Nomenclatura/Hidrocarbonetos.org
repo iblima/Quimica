@@ -39,7 +39,9 @@ Perceba que teremos nessa molécula uma ramificação, e a cadeia principal ter�
 
 
 *** 2. Contagem de Carbonos
-   
+
+Voltar para Álcoois - [[https://github.com/iblima/Quimica/blob/203361207a0b201b7491776217951cba494bddfb/Quimica-Organica/Nomenclatura/Alcoois.org#L17][Nomenclatura Álcoois]]
+
 A contagem de carbonos da cadeia principal é usada para localizar-se as ramificações e insaturações. A regra estabelece que se deve iniciar a contagem pelo lado mais próximo da instauração e ramificação, a soma dos numerais de localização que aparecem na nomenclatura deve ser a menor possível, essa mesma contagem é usada para definir-se o prefixo da nomenclatura:
 
 | Quantidade de Carbono | Prefixo |
