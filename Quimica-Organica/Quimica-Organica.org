@@ -198,7 +198,7 @@ De acordo com os grupos funcionais, as funções orgânicas são as seguintes:
 
 - [[#nomenclatura-dos-hidrocarbonetos][Nomenclatura dos Hidrocarbonetos]]
 
-*** [[./Nomenclatura/Hidrocarbonetos.org][Nomenclatura dos Hidrocarbonetos]
+*** [[./Nomenclatura/Hidrocarbonetos.org][Nomenclatura dos Hidrocarbonetos]]
 
 A *nomenclatura para moléculas de hidrocarbonetos* é estabelecida, pela União de Química Pura e Aplicada (*IUPAC*), com regras específicas, que definem bem a estrutura de cada composto. Os hidrocarbonetos recebem um prefixo de acordo com o número de carbonos, e as ramificações e insaturações também são nomeadas e localizadas.
 
