@@ -85,7 +85,7 @@ A contagem de carbonos da cadeia principal é usada para localizar-se as ramific
 | Insaturadas Ligações 2 Triplas  | DIIN |
 | Insaturadas Ligações 3 Triplas  | TRIIN |
 
-*OBS.:* As insaturações podem estar juntas $H_2C=C=CH_2$ ou $H_2C=CH_2-HC=CH_2$
+*OBS.:* As insaturações podem estar juntas $H_2C=C=CH_2$ ou $H_2C=CH-HC=CH_2$
 
 *** Nomenclatura dos Alcanos
 
