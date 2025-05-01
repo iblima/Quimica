@@ -1,3 +1,117 @@
 * Fenol
 
-Aguarde!
+O fenol é uma função orgânica oxigenada em que o grupo hidroxila (-OH) se liga a um anel aromático.
+
+Fenol [C6H_6O] [[https://pubchem.ncbi.nlm.nih.gov/compound/996][Pubchem = 996]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Fenol-00.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Fenol.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Fenol-3D.png]]
+
+O fenol é uma função orgânica oxigenada que ocorre quando uma ou mais hidroxilas (−OH) se ligam diretamente a um anel aromático. Desses grupos, o mais conhecido é o fenol mais simples, que ocorre quando a hidroxila está ligada a um anel benzênico e, por recomendações da Iupac, também pode ser chamado de fenol.
+
+O fenol costuma apresentar baixa acidez (sendo mais ácidos que os álcoois, também hidroxilados), além de ser orto-para dirigentes em reações de substituição eletrofílica aromática. A principal forma de obtenção é por meio da oxidação do cumeno (isopropilbenzeno). Boa parte do fenol produzido é utilizado na produção da resina fenólica.
+
+- Fenol é um grupo orgânico caracterizado pela presença de um ou mais grupos hidroxilas ligados diretamente a um anel aromático.
+
+- Desses grupos, o mais famoso é o que apresenta uma hidroxila ligada ao anel benzênico, que também recebe o nome de fenol.
+
+- Em comparação aos álcoois, os fenóis são mais ácidos.
+
+- A hidroxila do fenol direciona substituições nas posições orto e para em reações de substituição eletrofílica aromática.
+
+- Boa parte do fenol é produzida via oxidação do cumeno (processo Hock).
+
+- Os principais fenóis são cresol, xilenol, propofol e BHT (hidroxitolueno butilado).
+
+- O fenol tem muitas aplicações, sendo a principal na produção de uma resina fenólica.
+
+- O fenol é um composto tóxico em altas concentrações e pode causar envenenamento.
+
+Segundo a União Internacional de Química Pura e Aplicada (IUPAC), fenóis são compostos que têm um ou mais grupos hidroxila (−OH) ligados a um anel benzênico ou outro anel arênico (aromático). O fenol mais conhecido (e simples) é aquele em que o anel benzênico está ligado a uma única hidroxila, e, segundo a própria Iupac, tal estrutura pode também ser chamada de fenol, sendo um caso em que o composto recebe o mesmo nome da classe a que pertence.
+
+** Propriedades do fenol
+
+As propriedades aqui listadas são referentes ao fenol (substância, não classe).
+
+- Fórmula molecular: C6H6O
+
+- Massa molecular: 94,111 u.m.a
+
+- Ponto de solidificação/fusão: 40,91 °C
+
+- Ponto de ebulição: 181,8 °C
+
+- Densidade: 1,0545 g.cm−3
+
+** Características do fenol
+
+O fenol (C6H6O) tem um baixo ponto de fusão, sendo que sua forma sólida se apresenta por meio de cristais incolores. Apresenta odor característico e levemente pungente. Na forma líquida, é incolor, e, em temperaturas inferiores a 68,4 °C, a sua miscibilidade com água é limitada, sendo completamente miscível em temperaturas superiores.
+
+Além disso, o fenol dissolve-se prontamente em solventes orgânicos, como hidrocarbonetos aromáticos, álcoois, cetonas, éteres, ácidos orgânicos, derivados halogenados, entre outros, porém é um pouco menos solúvel em hidrocarbonetos alifáticos (não aromáticos).
+
+Quando misturado à água, o ponto de fusão do fenol cai substancialmente, e, além disso, forma-se uma mistura azeotrópica (o ponto de ebulição da solução é constante, comportando-se como uma substância pura).
+
+A presença da hidroxila faz crer que o fenol possa estar dentro da classe dos álcoois, no entanto, há algumas diferenças. A principal delas diz respeito à acidez, em que o fenol apresenta uma maior acidez que os álcoois, pois o anel aromático permite a estabilização do íon fenóxido por ressonância, aumentando-se a concentração de íons H+ em solução.
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/ionizacao-fenol.wepb]]
+
+Ionização do fenol, com formação do íon fenóxido.
+
+Dessa forma, o fenol pode formar sais por meio da reação com compostos alcalinos, os fenolatos. Contudo, é considerado um ácido fraco (pKa = 9,94 em água). Assim como outros aromáticos, o fenol sofre reações de substituição eletrofílica, porém o grupo hidroxila é um grupo orto-para dirigente, ou seja, favorece que a substituição ocorra nas posições 2 e 4 em relação a ele.
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/estruturas-ressonancia-ion-fenoxido.wepb]]
+
+Estruturas de ressonância do íon fenóxido, as quais contrinuem para estabilização do ânion.
+
+** Nomenclatura do Fenol
+
+A nomenclatura dos fenóis baseia-se no tipo de aromático que formou o fenol, bem como na presença ou não de ramificações.
+
+A questão da nomenclatura para o fenol tem uma particularidade. A IUPAC considera o nome “fenol”, para se referir ao anel benzênico com uma única hidroxila, uma nomenclatura trivial, porém permite que assim o seja designado oficialmente. No entanto, para casos diferentes desses, em que há dois ou mais grupos hidroxilas ligados ao anel benzênico, ou que a hidroxila esteja ligada a outro anel aromático, considera-se o tipo de aromático que formou o fenol e pode-se utilizar o sufixo −ol, como nos álcoois.
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Fenol-00.png]]
+ Fenol
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-3-Benzenediol-00.png]]
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-3-Benzenediol-3D.png]]
+ 
+ Benzeno-1,3-diol
+
+ Naftalen-2-ol
+
+Como todo fenol apresenta um grupo -OH ligado a um aromático, o que diferencia um fenol do outro são os tipos de aromáticos que os constituem, bem como a presença ou não de radicais orgânicos. Essa diferença também influi na nomenclatura desses compostos.
+
+As imagens a seguir trazem exemplos de fenóis com aromáticos diferentes e também de fenóis com ramificações:
+
+- Fenol com aromático diferente:
+
+Naftalen-1-ol [C_10H_8O] [[https://pubchem.ncbi.nlm.nih.gov/compound/7005][PubChem = 7005]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Naphthalenol-00.png]]
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Naphthalenol.png]]
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Naphthalenol-3D.png]]
+
+
+- Fenol com ramificação:
+
+
+
+A regra de nomenclatura IUPAC para todo e qualquer fenol é a mesma, a saber:
+
+Hidroxi + Nome do aromático
+
+Assim, se o aromático for diferente, o fenol terá, consequentemente, um nome diferente. Veja alguns exemplos:
