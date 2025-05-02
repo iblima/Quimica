@@ -105,13 +105,38 @@ Naftalen-1-ol [C_10H_8O] [[https://pubchem.ncbi.nlm.nih.gov/compound/7005][PubCh
 #+ATTR_HTML: :style display:inline-block; margin:10px
 [[https://github.com/iblima/Quimica/blob/main/Images/1-Naphthalenol-3D.png]]
 
-
 - Fenol com ramificação:
-
-
 
 A regra de nomenclatura IUPAC para todo e qualquer fenol é a mesma, a saber:
 
 Hidroxi + Nome do aromático
 
 Assim, se o aromático for diferente, o fenol terá, consequentemente, um nome diferente. Veja alguns exemplos:
+
+a) Hidroxibenzeno (Fenol)
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Fenol-00.png]]
+
+OBS.: O nome Hidroxibenzeno pode ser trocado por Fenol segundo a IUPAC.
+
+b) \alpha-hidroxinaftaleno (Naftalen-1-ol)
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/1-Naphthalenol-00.png]]
+
+
+OBS.: O nome hidroxinaftaleno pode ser trocado por naftol segundo a IUPAC.
+
+c) 9-hidroxiantraceno
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Antraceno-nome.png]]
+
+
+Seguindo o mesmo raciocínio, o nome inicia-se com hidroxi seguido de antraceno, por ser este o aromático na cadeia. Devemos utilizar o número 9 antes do termo hidroxi porque a hidroxila está no carbono vertical de cima no anel do meio. O carbono da parte de baixo recebe o número 10.
+
+"A numeração de um antraceno sempre se inicia pelo carbono vertical acima ou abaixo de um dos núcleos da ponta do composto. Como podemos observar, o OH está na vertical superior, por isso, iniciamos a numeração no carbono vertical de cima no anel da direita, seguindo a numeração no sentido horário até o carbono 4. Chegando nele, saltamos para o anel da outra extremidade e recomeçamos a numeração, mantendo o sentido horário, já que foi assim que iniciamos."
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Antraceno_Numeracao_Carbono_nome.png]]
