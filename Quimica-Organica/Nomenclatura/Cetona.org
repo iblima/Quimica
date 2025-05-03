@@ -1,3 +1,39 @@
 * Cetona
 
-Aguarde!
+
+As Cetonas compõem uma função orgânica oxigenada em que há presença do grupo *carbonila*(um carbono que faz uma dupla ligação com um oxigênio), sem que ele esteja em uma extremidade da cadeia. Nas cetonas, a carbonila deve estar entre outros dois átomos de carbono, nunca podendo estar na ponta da cadeia. Toda cetona deve possuir o sufixo *-ona* em seu nome oficial, conforme recomenda a Iupac.
+
+Na indústria e nos laboratórios, as cetonas são importantes solventes e precursores para compostos mais complexos. Além disso, muitas cetonas possuem fragrâncias agradáveis e, por isso, podem também ser utilizadas na fabricação de perfumes e demais cosméticos.As cetonas podem ser obtidas principalmente por reações de oxidação de álcoois secundários e alcenos.
+
+ - As cetonas possuem o grupo carbonila como grupo funcional.
+
+ - A carbonila das cetonas deve estar ligada a outros átomos de carbono, não podendo estar na extremidade da cadeia.
+
+ - As cetonas podem ser tanto de cadeia aberta quanto de cadeia fechada.
+
+ - Toda cetona possui sufixo -ona em sua nomenclatura oficial.
+
+ - O grupo carbonila aumenta o caráter polar das cetonas.
+
+ - A propanona, vendida como acetona, é amplamente utilizada com solvente e removedora de tinta e esmalte.
+
+ - As cetonas podem ser utilizadas na fabricação de perfumes e demais cosméticos devido a sua fragrância agradável.
+
+** Estrutura das cetonas
+
+Toda cetona possui o grupo carbonila, em que um átomo de carbono faz uma ligação dupla com um átomo de oxigênio. As outras duas ligações do carbono ficam disponíveis para se ligarem com outros átomos quaisquer. No caso específico das cetonas, essas duas outras ligações são obrigatoriamente com outros átomos de carbono. As cetonas podem ser tanto de cadeia aberta quanto de cadeia fechada.
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Carbonila-nome.png]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Carbonila-nome.jpg]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Carbonila-nome.pdf]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Carbonila-nome.svg]]
+
+#+ATTR_HTML: :style display:inline-block; margin:10px
+[[https://github.com/iblima/Quimica/blob/main/Images/Carbonila-nome.webp]]
