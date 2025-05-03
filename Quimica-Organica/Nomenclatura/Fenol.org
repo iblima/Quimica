@@ -170,4 +170,13 @@ c) 3,5-dimentil-1-hidroxi-naftaleno
 
 Quando o naftaleno apresenta mais de um radical ou grupo, é mais correto realizar a numeração dos carbonos. Ela é iniciada por um dos carbonos da vertical mais próximos do grupo OH. Segue-se no sentido do carbono quatro do mesmo anel. Depois, reinicia-se no carbono da vertical do outro anel.
 
-Assim, há dois radicais metil (CH3) nas posições 3 e 5, e o grupo OH encontra-se no carbono 1 da cadeia. Logo, o nome do composto é 3,5-dimetil-1-hidroxi-naftaleno.
+Assim, há dois radicais metil (CH3) nas posições 3 e 5, e o grupo OH encontra-se no carbono 1 da cadeia. Logo, o nome do composto é 3,5-dimetil-naftalen-1-ol ou 3,5-dimetil-1-hidroxi-naftaleno.
+
+d) 4-metil-9-hidroxiantraceno
+
+#+ATTR_HTML: :style display:inline-block; margin:5px
+[[https://github.com/iblima/Quimica/blob/main/Images/4-Metil-Antracen-9-ol-nomes.png]]
+
+O OH está na parte superior do anel do meio, iniciamos a numeração pelo carbono da parte de cima do anel da direita. Seguindo no sentido horário, o metil fica no carbono 4.
+
+
