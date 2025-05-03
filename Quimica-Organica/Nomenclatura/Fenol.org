@@ -148,14 +148,14 @@ Agora vamos acompanhar exemplos de como realizar a nomenclatura de fenóis em ca
 
 a) 3-etil-5-metil-hidroxibenzeno
 
-#+ATT#+ATTR_HTML: :style display:inline-block; margin:10px
+#+ATTR_HTML: :style display:inline-block; margin:10px
 [[https://github.com/iblima/Quimica/blob/main/Images/3-etil-5-metil-hidroxibenzeno-nomes.png]]
 
 Para dar nome a um fenol ramificado, devemos numerar a cadeia. Iniciamos a numeração pelo carbono que apresenta a hidroxila e seguimos no sentido anti-horário, pois o radical etil apresenta a menor numeração em relação ao radical metil. O radical que é escrito primeiro por causa da ordem alfabética será a referência para numerar.
 
 b) 1,2-metil-hidroxibenzeno
 
-#+ATT#+ATTR_HTML: :style display:inline-block; margin:10px
+#+ATTR_HTML: :style display:inline-block; margin:10px
 [[https://github.com/iblima/Quimica/blob/main/Images/1,2-metil-benzeno-1-ol-nomes.png]]
 
 
@@ -165,7 +165,7 @@ OBS.: Segundo a IUPAC a expressão metil-hidroxibenzeno pode ser substituída po
 
 c) 3,5-dimentil-1-hidroxi-naftaleno
 
-#+ATT#+ATTR_HTML: :style display:inline-block; margin:10px
+#+ATTR_HTML: :style display:inline-block; margin:5px
 [[https://github.com/iblima/Quimica/blob/main/Images/3,5-dimetil-naftalen-1-ol-nomes.png]]
 
 Quando o naftaleno apresenta mais de um radical ou grupo, é mais correto realizar a numeração dos carbonos. Ela é iniciada por um dos carbonos da vertical mais próximos do grupo OH. Segue-se no sentido do carbono quatro do mesmo anel. Depois, reinicia-se no carbono da vertical do outro anel.
