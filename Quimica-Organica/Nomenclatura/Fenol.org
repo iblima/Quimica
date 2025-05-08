@@ -175,8 +175,7 @@ Assim, há dois radicais metil (CH3) nas posições 3 e 5, e o grupo OH encontra
 d) 4-metil-9-hidroxiantraceno
 
 #+ATTR_HTML: :style display:inline-block; margin:5px
-[[https://github.com/iblima/Quimica/blob/main/Images/4-Metil-Antracen-9-ol-nomes.png]]
+[[https://github.com/iblima/Quimica/blob/main/Images/4-Metil-Antracen-9-0l-nomes.png]]
 
 O OH está na parte superior do anel do meio, iniciamos a numeração pelo carbono da parte de cima do anel da direita. Seguindo no sentido horário, o metil fica no carbono 4.
-
 
